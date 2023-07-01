@@ -1,4 +1,4 @@
-# Curriculum 23-24
+# Code Nation Curriculum 23-24
 
 <div align="center">
   <img src="https://live.staticflickr.com/65535/53014632932_c3f6a1f6f6_k.jpg" alt="banner" width="100%">
