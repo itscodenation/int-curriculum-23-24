@@ -25,7 +25,7 @@ This lesson will introduce Google Classroom - how Code Nation utilizes it - and 
 
 
 ## Common Misconceptions
-Students may have a limited understanding of how many aspects of their lives utilize coding and computer languages. They also might need some ‘buy-in’ if they have not opted into the class. This is a chance to get them excited about how relevant coding is to their everyday lives and excited to learn!
+Important to note that this may be the students' first time looking at code - encourage students to explore, make mistakes, and search for solutions.  
 
 ## Additional Materials
 - Registration Form
