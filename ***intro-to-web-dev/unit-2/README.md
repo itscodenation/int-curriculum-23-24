@@ -10,22 +10,29 @@
 ## Objectives
 
 ### Coders will…
-1. Learn about the Unit 2 Project/ Identify key features of a successful website
-2. Research their chosen project topic./ Choose a wireframe and starter code for their project
-3. Understand the purpose and structure of HTML/ Create HTML tags on a webpage
-4. Create HTML elements with attributes to add images and links to their webpage
-5. Develop their Unit 2 project by adding links and images./ Discuss debugging strategies
-6. Understand the purpose and structure of CSS/Style a webpage using CSS rules
-7. Understand the purpose of documentation./ Learn how to navigate the Code Nation Reference Table and W3Schools 
-8. Use class attributes and selectors to style specific elements on a webpage.
-9. Review how to HTML and CSS.
-10. Use the properties of the box model to change how elements are displayed on a webpage./ Use divs to organize elements on a webpage.
-11. Use Flexbox to align elements on a webpage.
-12. Incorporate accessibility features into their websites by adjusting color contrast and adding alt tags to images.
-13. Use their project plans, feedback, and documentation to develop their webpage 
-14. Prepare a presentation for their webpages
-15. Showcase their webpage to an audience
-16. Demonstrate their coding knowledge by completing a coding challenge. 
+
+1. Learn about the unit project.
+2. Identify key features of a successful website.
+3. Research their chosen project topic.
+4. Choose a wireframe and starter code for their project.
+5. Understand the purpose and structure of HTML.
+6. Create HTML tags on a webpage.
+7. Create HTML elements with attributes to add images and links to their webpage.
+8. Develop their unit project by adding links and images.
+9. Discuss debugging strategies.
+10. Understand the purpose and structure of CSS.
+11. Style a webpage using CSS rules.
+12. Understand the purpose of and learn how to navigate documentation.
+13. Use class attributes and selectors to style specific elements on a webpage.
+14. Review how to HTML and CSS.
+15. Use the properties of the box model to change how elements are displayed on a webpage.
+16. Use divs to organize elements on a webpage.
+17. Use Flexbox to align elements on a webpage.
+18. Incorporate accessibility features into their websites by adjusting color contrast and adding alt tags to images.
+19. Use project plans, feedback, and documentation to develop their webpage.
+20. Prepare a presentation for their webpages.
+21. Showcase their webpage to an audience.
+22. Demonstrate their coding knowledge by completing a coding challenge. 
 
 
 Additional Resource - [Lesson Recordings](https://drive.google.com/drive/folders/1tZV1qcoUWCdxxYGleYM9yXQKj7CuHOtS?usp=share_link)
@@ -41,7 +48,7 @@ Other: wireframe
 
 ---
 
-## Unit 2 Project 
+## Project Overview
 Students will use HTML and CSS to build a website for an issue or topic they are passionate about. This website can be centered around a social justice issue, an issue in their school or community, or an issue related to a hobby or interest they have. 
 
 ### Project Materials
