@@ -1,27 +1,25 @@
-# Code Nation Curriculum 23-24
+# Intro to Web Development Curriculum 23-24
 
-<div align="center">
-  <img src="https://live.staticflickr.com/65535/53014632932_c3f6a1f6f6_k.jpg" alt="banner" width="100%">
-</div>
+  
 
-| Program Level                                 | Description                                                                                                                                                                                                                                                                                                       |
-| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Intro to Web Development](/***intro-to-web-dev/)      | The focus of this course is **Exposure**. In this course, students are introduced to HTML, CSS and JavaScript. By the end of the course, students will be able to make simple webpages that involve fundamental JavaScript concepts. |
-| [Intro to Web Development <br> (1-Semester)]()      | Please use this curriculum portal if you're teaching an Intro class that is **ONLY one semester.** It still reviews HTML, CSS, and JavaScript, but due to the shorter length, has a slightly different number and order of lessons. |
-| [Fellowship I](/**fellowship-1/)   | The focus of this course is **Experience**. In this course, students will further develop their technical skills by building complex projects using JavaScript and APIs. Students will also build their professional skill set and work products.                                                          |
-| [Fellowship II](/*fellowship-2/) | The focus of this course is **Agency**. In this course, students will learn the fundamentals of ReactJS, continue to develop their knowledge of computer science principles, enhance their professional development skills, and increase their coding independence. |
+## Scope and Sequence
+
+<br>
+
+| Unit | Overview | Objectives |
+| :--------------------------------------------------- | :----------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**1: Introductions**](/***intro-to-web-dev/unit-1/) | 3 Lessons | Coders are introduced to Code Nation, the world of coding, and the platforms they'll use throughout the year. |
+| [**2: HTML and CSS**](/***intro-to-web-dev/unit-1/) | 14 Lessons<br>1 Individual Project | Coders learn HTML and CSS to build a website for a cause they are passionate about. |
+| [**3: JS Basics I**](units/unit3) | 13 Lessons<br>1 Individual Project | Coders learn about variables, DOM manipulation and event handlers to create a Choose Your Own Adventure game. |
+| [**4: Mid Year Unit**](units/unit4) | 2 Lessons | Coders will discuss diversity within the tech industry, review HTML, CSS, and JavaScript, and take the Mid Year Coding Challenge. |
+| [**5: JS Basics II**](units/unit5) | 12 Lessons<br>1 Individual Project | Coders will learn how to use .value, string concatenation, and how to write conditionals to create a quiz web app. |
+| [**6: JS Basics III**](units/unit6) | 8 Lessons<br>1 Individual Project | Coders will learn arrays, array methods, loops, and properties to build a movie, tv, or music suggestion app. |
+| [**7: End of Year Unit**](units/unit7) | 1 Lesson | Coders will take an End of Year Coding Challenge and celebrate their accomplishments this year! |
+| [**8: Functions (Optional)**](units/unit8) | 10 Lessons<br>1 Individual Project | Students will learn about functions to create a playlist project. |
 
 ---
 
 <br>
-  
-For more information about Code Nation, please visit us at <a href="https://www.codenation.org">codenation.org</a>.
-<br>
-<br>
 Code Nation's curriculum is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>. By contributing to this repository, you agree to license your contributions or use of the curriculum under the same license.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
-
-Happy learning!
-
--- The Code Nation Team
