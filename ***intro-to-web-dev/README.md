@@ -15,7 +15,7 @@
 | [**5: JS Basics II**](units/unit5) | 12 Lessons<br>1 Individual Project | Coders will learn how to use .value, string concatenation, and how to write conditionals to create a quiz web app. |
 | [**6: JS Basics III**](units/unit6) | 8 Lessons<br>1 Individual Project | Coders will learn arrays, array methods, loops, and properties to build a movie, tv, or music suggestion app. |
 | [**7: End of Year Unit**](units/unit7) | 1 Lesson | Coders will take an End of Year Coding Challenge and celebrate their accomplishments this year! |
-| [**8 [Optional]: Functions**](units/unit8) | 10 Lessons<br>1 Individual Project | Students will learn about functions to create a playlist project. |
+| [**8: Functions (Optional)**](units/unit8) | 10 Lessons<br>1 Individual Project | Students will learn about functions to create a playlist project. |
 
 ---
 
