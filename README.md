@@ -1,6 +1,4 @@
-# Intro to Web Development Curriculum 23-24
-
-  <div align="center">
+<div align="center">
   <img src="https://live.staticflickr.com/65535/53025577379_9a48ebd602_k.jpg" alt="int-curriculum-banner" width="100%">
 </div>
 
