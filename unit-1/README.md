@@ -1,4 +1,4 @@
-<div align="center>
+<div align="center">
 <img src="https://live.staticflickr.com/65535/53025922590_b1422ba225_k.jpg" alt="int-unit-1-banner" width="100%">
 </div>
 
