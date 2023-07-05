@@ -8,7 +8,7 @@
 
 | Unit | Overview | Objectives |
 | :--------------------------------------------------- | :----------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**1: Introductions**](/***intro-to-web-dev/unit-1/) | 3 Lessons | Coders are introduced to Code Nation, the world of coding, and the platforms they'll use throughout the year. |
+| [**1: Welcome and Setup**](/***intro-to-web-dev/unit-1/) | 3 Lessons | Coders are introduced to Code Nation, the world of coding, and the platforms they'll use throughout the year. |
 | [**2: HTML and CSS**](/***intro-to-web-dev/unit-1/) | 14 Lessons<br>1 Individual Project | Coders learn HTML and CSS to build a website for a cause they are passionate about. |
 | [**3: JS Basics I**](units/unit3) | 13 Lessons<br>1 Individual Project | Coders learn about variables, DOM manipulation and event handlers to create a Choose Your Own Adventure game. |
 | [**4: Mid Year Unit**](units/unit4) | 2 Lessons | Coders will discuss diversity within the tech industry, review HTML, CSS, and JavaScript, and take the Mid Year Coding Challenge. |
