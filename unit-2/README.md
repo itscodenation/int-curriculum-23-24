@@ -1,4 +1,7 @@
-# Intro to Web Development: Unit 2 Overview
+<div align="center">
+<img src="https://live.staticflickr.com/65535/53026028823_c9c75baa04_k.jpg" alt="int-unit-1-banner" width="100%">
+</div>
+
 
 ## Deliverables
 
