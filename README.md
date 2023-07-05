@@ -1,7 +1,8 @@
 # Intro to Web Development Curriculum 23-24
 
-<img src="https://live.staticflickr.com/65535/53025577379_9a48ebd602_k.jpg" width="2048" height="1152" alt="int-curriculum-banner"/>
-  
+  <div align="center">
+  <img src="https://live.staticflickr.com/65535/53025577379_9a48ebd602_k.jpg" alt="int-curriculum-banner" width="100%">
+</div>
 
 ## Scope and Sequence
 
