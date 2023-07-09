@@ -27,4 +27,4 @@ The syntax might be tricky for students, especially if they’ve never coded bef
 
 
 ## Additional Materials
-- [Webinar](https://www.youtube.com/watch?v=ptlI_GzO3tE&list=PL4VFcrnj9w8eOxpaJ52C5IMcSWXmoOzH6&index=7&t=0s)https://www.youtube.com/watch?v=ptlI_GzO3tE&list=PL4VFcrnj9w8eOxpaJ52C5IMcSWXmoOzH6&index=7&t=0s
+- [Webinar](https://www.youtube.com/watch?v=ptlI_GzO3tE&list=PL4VFcrnj9w8eOxpaJ52C5IMcSWXmoOzH6&index=7&t=0s)
