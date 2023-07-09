@@ -26,5 +26,5 @@ This is the first day students will be coding along and on their own with new co
 The syntax might be tricky for students, especially if they’ve never coded before. Make sure they’re coding along with you during the Code Along so they have examples to work off of when they’re practicing by themselves. Because the starter code has code prewritten, students might be confused about exactly where to write. Remind them to read the comments which indicate where they should start writing their code. 
 
 
-## Additional Resources
+## Additional Materials
 - [Webinar](https://www.youtube.com/watch?v=ptlI_GzO3tE&list=PL4VFcrnj9w8eOxpaJ52C5IMcSWXmoOzH6&index=7&t=0s)https://www.youtube.com/watch?v=ptlI_GzO3tE&list=PL4VFcrnj9w8eOxpaJ52C5IMcSWXmoOzH6&index=7&t=0s
