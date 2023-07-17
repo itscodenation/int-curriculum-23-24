@@ -8,7 +8,7 @@
 asadaf.
 
 
-- ⏰ Do Now + Share Out (4) : 
+- ⏰ Do Now & Share Out (4) : 
     -  asadaf. <br><br>
 
 - 🎨 CSS (8) : 
