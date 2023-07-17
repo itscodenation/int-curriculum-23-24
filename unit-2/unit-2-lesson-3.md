@@ -1,7 +1,7 @@
 # Lesson 2.3: Project Intro & Brainstorming
 
 ## Lesson Materials
-- [Slides](https://docs.google.com/presentation/d/1q1oo12nwso3tM4RULl2wJZGYUpEDkOWT1FZN2q6WqVU/edit#slide=id.g255af1b899a_0_186)
+- [Slides](https://docs.google.com/presentation/d/1q1oo12nwso3tM4RULl2wJZGYUpEDkOWT1FZN2q6WqVU/edit?usp=sharing)
 - [Coding Exercises]
 
 ## Key Points

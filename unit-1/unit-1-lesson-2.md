@@ -1,7 +1,7 @@
 # Lesson 1.2: Google Classroom & GitHub
 
 ## Lesson Materials
-- [Slides](https://docs.google.com/presentation/d/1EB8GVHuKhh781d5sJpM2lVhTevpDufTXjmbTydZNnM8/edit#slide=id.g25545787a3d_0_205)
+- [Slides](https://docs.google.com/presentation/d/1EB8GVHuKhh781d5sJpM2lVhTevpDufTXjmbTydZNnM8/edit?usp=sharing)
 - Coding Exercises
 
 

@@ -1,7 +1,7 @@
 # Lesson 1.1: Welcome to Code Nation
 
 ## Lesson Materials
-- [Slides](https://docs.google.com/presentation/d/1O9CI3EtGRvCW1Lrsmh1IA0Ibu7kYNWWmBDo6vUxdOxU/edit#slide=id.g255497f27aa_0_202)
+- [Slides](https://docs.google.com/presentation/d/1O9CI3EtGRvCW1Lrsmh1IA0Ibu7kYNWWmBDo6vUxdOxU/edit?usp=sharing)
 
 ## Key Points
 This lesson introduces the concept of coding, Code Nation, and the volunteers who will be teaching. 

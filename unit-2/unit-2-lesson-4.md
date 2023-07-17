@@ -1,7 +1,7 @@
 # Lesson 2.4: Wireframing & Project Planning
 
 ## Lesson Materials
-- [Slides](https://docs.google.com/presentation/d/1psB3BvsfdcBYTYIXNx30jwI84rAaQ5IhDWb4lg6s42Q/edit#slide=id.g255b6ed3948_0_1376)
+- [Slides](https://docs.google.com/presentation/d/1psB3BvsfdcBYTYIXNx30jwI84rAaQ5IhDWb4lg6s42Q/edit?usp=sharing)
 - [Coding Exercises]
 
 ## Key Points

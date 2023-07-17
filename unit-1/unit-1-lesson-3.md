@@ -1,7 +1,7 @@
 # Lesson 1.3: IDEs & Dev Tools
 
 ## Lesson Materials
-- [Slides](https://docs.google.com/presentation/d/1Cto6KrtcS8IN7qHeR-olOwXsyji2r7B9nBmnpQRe7hs/edit#slide=id.g2554cfa7444_0_182)
+- [Slides](https://docs.google.com/presentation/d/1Cto6KrtcS8IN7qHeR-olOwXsyji2r7B9nBmnpQRe7hs/edit?usp=sharing)
 - Coding Exercises
 
 

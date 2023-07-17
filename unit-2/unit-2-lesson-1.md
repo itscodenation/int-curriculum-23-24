@@ -1,7 +1,7 @@
 # Lesson 2.1: HTML Tags
 
 ## Lesson Materials
-- [Slides](https://docs.google.com/presentation/d/1y8TuHrmh653oJLUQUb2xMT9pdtCr_xFHVFfe2KlGPN8/edit#slide=id.g25568954689_1_7)
+- [Slides](https://docs.google.com/presentation/d/1y8TuHrmh653oJLUQUb2xMT9pdtCr_xFHVFfe2KlGPN8/edit?usp=sharing)
 - [Coding Exercises](https://github.com/itscodenation/int-u2l1-23-24-exercises)
 
 ## Key Points

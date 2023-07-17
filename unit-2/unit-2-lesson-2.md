@@ -1,7 +1,7 @@
 # Lesson 2.2: HTML w/ Attributes
 
 ## Lesson Materials
-- [Slides](https://docs.google.com/presentation/d/1bTydnT-1PbiUrvkJclzQNBKgu1TRZMHy42xw65AF-7s/edit#slide=id.g2584aaee3f2_0_0)
+- [Slides](https://docs.google.com/presentation/d/1bTydnT-1PbiUrvkJclzQNBKgu1TRZMHy42xw65AF-7s/edit?usp=sharing)
 - [Coding Exercises]
 
 ## Key Points
