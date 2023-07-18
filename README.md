@@ -8,14 +8,14 @@
 
 | Unit | # of Lessons | Project | Objectives |
 | :--------------------------------------------------- | :----------------------------------------------: | :----------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [1: Welcome & Setup](/unit-1) | 3 | - [ ] | Coders are introduced to Code Nation, the world of coding, and the platforms they'll use throughout the year. |
-| [2: HTML & CSS](/unit-2) | 15 | - [x] | Coders learn HTML and CSS to build a website for a cause they are passionate about. |
-| [**3: JS Basics I**] | 13 | - [x] | Coders learn about variables, DOM manipulation and event handlers to create a Choose Your Own Adventure game. |
-| [**4: Mid Year Unit**] | 2 | - [ ] | Coders will discuss diversity within the tech industry, review HTML, CSS, and JavaScript, and take the Mid Year Coding Challenge. |
-| [**5: JS Basics II**] | 12 | - [x] | Coders will learn how to use .value, string concatenation, and how to write conditionals to create a quiz web app. |
-| [**6: JS Basics III**] | 8 | - [x] | Coders will learn arrays, array methods, loops, and properties to build a movie, tv, or music suggestion app. |
-| [**7: End of Year Unit**] | 1 | - [ ] | Coders will take an End of Year Coding Challenge and celebrate their accomplishments this year! |
-| [**8: Functions (Optional)**] | 10 | - [x] | Students will learn about functions to create a playlist project. |
+| [1: Welcome & Setup](/unit-1) | 3 | ➖ | Coders are introduced to Code Nation, the world of coding, and the platforms they'll use throughout the year. |
+| [2: HTML & CSS](/unit-2) | 15 | ✔️ | Coders learn HTML and CSS to build a website for a cause they are passionate about. |
+| [**3: JS Basics I**] | 13 | ✔️ | Coders learn about variables, DOM manipulation and event handlers to create a Choose Your Own Adventure game. |
+| [**4: Mid Year Unit**] | 2 | ➖ | Coders will discuss diversity within the tech industry, review HTML, CSS, and JavaScript, and take the Mid Year Coding Challenge. |
+| [**5: JS Basics II**] | 12 | ✔️ | Coders will learn how to use .value, string concatenation, and how to write conditionals to create a quiz web app. |
+| [**6: JS Basics III**] | 8 | ✔️ | Coders will learn arrays, array methods, loops, and properties to build a movie, tv, or music suggestion app. |
+| [**7: End of Year Unit**] | 1 | ➖ | Coders will take an End of Year Coding Challenge and celebrate their accomplishments this year! |
+| [**8: Functions (Optional)**] | 10 | ✔️ | Students will learn about functions to create a playlist project. |
 
 ---
 
