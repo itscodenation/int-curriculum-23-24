@@ -3,6 +3,7 @@
 ## Lesson Materials
 - [Slides](https://docs.google.com/presentation/d/1y8TuHrmh653oJLUQUb2xMT9pdtCr_xFHVFfe2KlGPN8/edit?usp=sharing)
 - [Coding Exercises](https://github.com/itscodenation/int-u2l1-23-24-exercises)
+- [Unit 2 Exit Tickets](https://forms.gle/UWFoGfzJGQZqeeb59)
 
 ## Key Points
 This is the first day students will be coding along and on their own with new content on HTML tags.
