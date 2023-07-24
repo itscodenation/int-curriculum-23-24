@@ -5,6 +5,7 @@
 
 ## Deliverables
 
+- [Unit 2 Exit Tickets](https://forms.gle/UWFoGfzJGQZqeeb59)
 - Code Nation Registration
 - Beginning of Year Survey
 
