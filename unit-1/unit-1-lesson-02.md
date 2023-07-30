@@ -2,7 +2,7 @@
 
 ## Lesson Materials
 - [Slides](https://docs.google.com/presentation/d/1EB8GVHuKhh781d5sJpM2lVhTevpDufTXjmbTydZNnM8/edit?usp=sharing)
-- Coding Exercises
+- [Coding Exercises](https://popcode.org/?snapshot=eb99c80f-f102-4c8e-a488-64e01c30e943)
 
 
 ## Key Points
@@ -14,11 +14,11 @@ This lesson will introduce Google Classroom - how Code Nation utilizes it - and 
 - 🎒Google Classroom (5) : 
     - Introduce Google Classroom, how to access assignments and turn them in. Some students might be very familiar with GC at this point, so feel free to skip or shorten this part.<br><br>
 
-- 👾 Do Now & GitHub (15) :
-    - Students will do a short google search activity around web development and software engineers. After, students will set up their GitHub accounts and submit their username.<br><br>
+- 👾 GitHub (15) :
+    - Students will set up their GitHub accounts and submit their username. This portion will cover the basic of GitHub and navigating the platform.<br><br>
 
 - 💻 Coding Practice (10) : 
-    - Model using GitHub, forking a repo, and importing to an IDE.<br><br>
+    - Give students a taste of coding! This is an exploratory activity - encourage students to try new things.<br><br>
 
 - 🎉 Sharing & Shout Outs (5) :
     - Choose a couple of students to share their practice. Use this to create excitement and congratulate them on their first coding activity!<br><br>
