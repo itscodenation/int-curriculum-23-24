@@ -59,7 +59,7 @@ Students will use HTML and CSS to build a website for an issue or topic they are
 - Exemplar Projects: [Exemplar 1](https://maxwilliams361.github.io/Example-Project/#reusable_bag), [Exemplar 2](https://maxwilliams361.github.io/Sample-Project-Start-Code-2), [Exemplar 3](https://maxwilliams361.github.io/Sample-Project-Starter-Code-3/) 
 - [Project Plan](https://docs.google.com/document/d/1VKah1XPtkCOXuHCE2CpxLuP3DC91c4n9CFlHTHHZiqI/edit#heading=h.mw7c7ymg9fig)
     - Students will use this to plan the project. It will be completed over several classes.
-- [Project Rubric](https://docs.google.com/document/d/1BI1AHxRaHpaqDeyg3mjrd4KDMXjDrqC_r9okY1WQ0PA/edit#) 
+- [Project Rubric](https://docs.google.com/document/d/1-TPAVVylABgVcBTaSWEUrLW2-WYQ2S3fkIG7huS4Vsw/edit)
 - [Project Rubric for Google Classroom Import](https://docs.google.com/spreadsheets/d/1Pcm0Z6Y1go8Vho9UXGcDR6AuWs4c2Rg5BowuXycAYyo/edit#gid=241290541)
 - Starter Code Templates:
     - Template 1: [Popcode](https://popcode.org/?snapshot=2fd6de0c-20d8-44b6-a306-8c10e62f3db6) | [Replit](https://replit.com/@maxwilliams361/Intro-Unit-2-Project-Starter-Code-1)
