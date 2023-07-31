@@ -3,6 +3,7 @@
 ## Lesson Materials
 - [Slides](https://docs.google.com/presentation/d/1C-mFqf-I0Mcw1iTpw1UCzPEUED-4TqD0qA0dfGPxpOw/edit?usp=sharing)
 - [Coding Exercises]
+- [Unit 2 Exit Tickets](https://forms.gle/UWFoGfzJGQZqeeb59)
 
 ## Key Points
 asadaf.
