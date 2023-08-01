@@ -13,14 +13,23 @@ Note: Time will vary for these activities based on the size & timing of your cla
 - 👋 Welcome & Class Norms (5) : 
     - Students will make a name tent. Ahead of class, volunteers and PM should add a photo and info to their slide - prepare to briefly introduce themselves. Share the three Code Nation class norms.<br><br>
 
-- 👥 Intro to Code Nation (15) : 
+- 👥 Intro to Code Nation (10) : 
     - The Program Manager will go over Code Nation, coding/web development, and why it’s important to learn to code.<br><br>
 
 - 💻 Discussion & Practice (10)
+    - Engage students in a discussion about their thoughts on coding.
+    - Have students list everyday items that require coding, demonstrating the prevalence of coding in daily life.
+    - Explain the course's content, including learning three web development languages (HTML, CSS, JavaScript), creating interactive projects, and attending tech company field trips.
+    - Students will complete a small coding activity.
 
-- 📝 Class Registration (10)
+- 📝 Exit Ticket & Class Registration (10)
+      - Instruct students to complete the Unit 1 Exit Ticket. They will submit the link for their coding activity.
+      - Guide students through filling out Code Nation's Registration form.
+      - Note: Registration does not have to happen on this day and can be moved elsewhere.
 
 - ✨Closing & Shout outs (5)
+      - Conclude the lesson by asking if students have any questions or need additional assistance.
+      - Give students an opportunity to give shout outs or share any thoughts they might have.
 
 
 ## Common Misconceptions
