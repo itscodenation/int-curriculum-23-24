@@ -29,4 +29,4 @@ This lesson will introduce Google Classroom - how Code Nation utilizes it - and 
 Important to note that this may be the students' first time looking at code - encourage students to explore, make mistakes, and search for solutions.  
 
 ## Additional Materials
-- Registration Form
+- n/a
