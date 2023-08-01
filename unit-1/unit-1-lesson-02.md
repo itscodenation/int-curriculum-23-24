@@ -1,4 +1,4 @@
-# Lesson 1.2: Google Classroom & GitHub
+# Lesson 1.2: GitHub & Google Classroom
 
 ## Lesson Materials
 - [Slides](https://docs.google.com/presentation/d/1EB8GVHuKhh781d5sJpM2lVhTevpDufTXjmbTydZNnM8/edit?usp=sharing)
