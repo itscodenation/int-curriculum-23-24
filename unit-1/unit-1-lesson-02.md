@@ -13,10 +13,33 @@ This lesson will introduce Google Classroom - how Code Nation utilizes it - and 
     - Lead teacher chooses an activity. Make sure to spend time getting to know each other these first few weeks as it will set the stage for engagement and positive classroom culture moving forward.<br><br>
 
 - 🎒Google Classroom (5) : 
-    - Introduce Google Classroom, how to access assignments and turn them in. Some students might be very familiar with GC at this point, so feel free to skip or shorten this part.<br><br>
+    - Introduce Google Classroom as the virtual classroom for the course.
+    - Explain that all work will be accessed and submitted through Google Classroom.
+    - Demonstrate how to open Google Classroom and log in using the school email.
+    - Provide the class code to join the current class.
+    - Show how to view and submit assignments in Google Classroom.
+    - Highlight the importance of the Stream and Classwork tabs.
+    - Note: Some students might be very familiar with GC at this point, so feel free to skip or shorten this part.<br><br>
 
 - 👾 GitHub (15) :
-    - Students will set up their GitHub accounts and submit their username. This portion will cover the basic of GitHub and navigating the platform.<br><br>
+    - Students will set up their GitHub accounts and submit their username.
+    - This portion will cover the basic of GitHub and navigating the platform.
+    - Explain the concept of version control and its benefits.
+    - Guide students through the process of setting up a GitHub account:
+        - Go to www.github.com
+        - Click on 'Sign Up'
+        - Enter personal information and create a username and password.
+        
+    - Navigate GitHub and explain the navigation bar and its functions.
+    - Discuss repositories (repos) as folders for projects and the importance of tracking work history.
+    - Demonstrate the process of creating a new repository:
+        - Click on the '+' button in the upper right corner.
+        - Select 'New repository'
+        - Name the repository 'my-first-repo' and add a description.
+        - Choose to make the repository public or private.
+        - Initialize it with a README file.
+        - Click 'Create repository'
+    - Show how to view all repositories by clicking on the profile avatar and choosing 'Your repositories.'<br><br>
 
 - 💻 Coding Practice (10) : 
     - Give students a taste of coding! This is an exploratory activity - encourage students to try new things.<br><br>
