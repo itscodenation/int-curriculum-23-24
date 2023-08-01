@@ -3,6 +3,7 @@
 ## Lesson Materials
 - [Slides](https://docs.google.com/presentation/d/1EB8GVHuKhh781d5sJpM2lVhTevpDufTXjmbTydZNnM8/edit?usp=sharing)
 - [Coding Exercises](https://popcode.org/?snapshot=eb99c80f-f102-4c8e-a488-64e01c30e943)
+- [Exit Ticket](https://forms.gle/maHRBfZMZQPj2aJ48)
 
 
 ## Key Points
