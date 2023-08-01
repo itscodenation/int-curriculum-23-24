@@ -23,13 +23,13 @@ Note: Time will vary for these activities based on the size & timing of your cla
     - Students will complete a small coding activity.
 
 - 📝 Exit Ticket & Class Registration (10) :
-      - Instruct students to complete the Unit 1 Exit Ticket. They will submit the link for their coding activity.
-      - Guide students through filling out Code Nation's Registration form.
-      - Note: Registration does not have to happen on this day and can be moved elsewhere.
+    - Instruct students to complete the Unit 1 Exit Ticket. They will submit the link for their coding activity.
+    - Guide students through filling out Code Nation's Registration form.
+    - Note: Registration does not have to happen on this day and can be moved elsewhere.
 
 - ✨Closing & Shout outs (5) :
-      - Conclude the lesson by asking if students have any questions or need additional assistance.
-      - Give students an opportunity to give shout outs or share any thoughts they might have.
+    - Conclude the lesson by asking if students have any questions or need additional assistance.
+    - Give students an opportunity to give shout outs or share any thoughts they might have.
 
 
 ## Common Misconceptions
