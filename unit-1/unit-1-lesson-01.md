@@ -1,8 +1,12 @@
 # Lesson 1.1: Welcome to Code Nation
 
-## Lesson Materials
+## Lesson Materials & Teacher Prep
+
+Upload as Material in Google Classroom:
 - [Slides](https://docs.google.com/presentation/d/1O9CI3EtGRvCW1Lrsmh1IA0Ibu7kYNWWmBDo6vUxdOxU/edit?usp=sharing)
 - [Coding Exercise](https://popcode.org/?snapshot=dc8e4c16-da31-41b1-beb0-7e7ba4155b90)
+
+Upload as Assignment in Google Classroom:
 - [Exit Ticket](https://forms.gle/maHRBfZMZQPj2aJ48)
 
 ## Key Points
