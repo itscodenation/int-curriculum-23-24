@@ -9,6 +9,8 @@ Upload as Material in Google Classroom:
 Upload as Assignment in Google Classroom (5 points):
 - [Exit Ticket](https://forms.gle/maHRBfZMZQPj2aJ48)
 
+<br>
+
 ## Key Points
 This lesson introduces the concept of coding, Code Nation, and the volunteers who will be teaching. 
 
