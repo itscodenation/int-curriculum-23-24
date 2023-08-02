@@ -1,10 +1,15 @@
 # Lesson 1.3: IDEs & Dev Tools
 
-## Lesson Materials
+## Lesson Materials & Teacher Prep
+
+📖 Upload as Material in Google Classroom:
 - [Slides](https://docs.google.com/presentation/d/1Cto6KrtcS8IN7qHeR-olOwXsyji2r7B9nBmnpQRe7hs/edit?usp=sharing)
 - Coding Exercises
+
+📝 Upload as Assignment in Google Classroom (5 points):
 - [Exit Ticket](https://forms.gle/maHRBfZMZQPj2aJ48)
 
+<br>
 
 ## Key Points
 This lesson will introduce the integrated development environment (IDE) we'll use in class - Replit - and some practice on using the browser's developer tools.
