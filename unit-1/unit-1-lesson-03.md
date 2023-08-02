@@ -1,5 +1,7 @@
 # Lesson 1.3: IDEs & Dev Tools
 
+<br>
+
 ## Lesson Materials & Teacher Prep
 
 📖 Upload as Material in Google Classroom:
