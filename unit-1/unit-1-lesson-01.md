@@ -1,5 +1,7 @@
 # Lesson 1.1: Welcome to Code Nation
 
+<br>
+
 ## Lesson Materials & Teacher Prep
 
 📖 Upload as Material in Google Classroom:
