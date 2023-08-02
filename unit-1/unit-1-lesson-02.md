@@ -1,8 +1,8 @@
 # Lesson 1.2: GitHub & Google Classroom
 
-## Lesson Materials  & Teacher Prep
-
 <br>
+
+## Lesson Materials  & Teacher Prep
 
 📖 Upload as Material in Google Classroom:
 - [Slides](https://docs.google.com/presentation/d/1EB8GVHuKhh781d5sJpM2lVhTevpDufTXjmbTydZNnM8/edit?usp=sharing)
