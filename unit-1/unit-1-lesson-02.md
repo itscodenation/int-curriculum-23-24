@@ -1,9 +1,15 @@
 # Lesson 1.2: GitHub & Google Classroom
 
-## Lesson Materials
+## Lesson Materials  & Teacher Prep
+
+Upload as Material in Google Classroom:
 - [Slides](https://docs.google.com/presentation/d/1EB8GVHuKhh781d5sJpM2lVhTevpDufTXjmbTydZNnM8/edit?usp=sharing)
 - [Coding Exercises](https://popcode.org/?snapshot=eb99c80f-f102-4c8e-a488-64e01c30e943)
+
+Upload as Assignment in Google Classroom (5 points):
 - [Exit Ticket](https://forms.gle/maHRBfZMZQPj2aJ48)
+
+<br>
 
 
 ## Key Points
