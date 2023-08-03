@@ -1,9 +1,16 @@
 # Lesson 2.4: Wireframing & Project Planning
 
+<br>
+
 ## Lesson Materials
+
 - [Slides](https://docs.google.com/presentation/d/1psB3BvsfdcBYTYIXNx30jwI84rAaQ5IhDWb4lg6s42Q/edit?usp=sharing)
-- [Coding Exercises]
-- [Unit 2 Exit Tickets](https://forms.gle/UWFoGfzJGQZqeeb59)
+- [Coding Exercise(s)]
+
+
+- [Exit Ticket](https://forms.gle/yy5uNdHH4KBrm1SX9)
+
+<br>
 
 ## Key Points
 asadaf.
