@@ -1,5 +1,7 @@
 # Lesson 2.1: HTML Tags
 
+<br>
+
 ## Lesson Materials
 
 📖 Upload as Material in Google Classroom:
@@ -8,6 +10,8 @@
 
 📝 Upload as Assignment in Google Classroom (5 points):
 - [Exit Ticket](https://forms.gle/8mhf4mwtmKMVJSbN6)
+
+<br>
 
 
 ## Key Points
