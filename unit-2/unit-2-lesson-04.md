@@ -4,6 +4,7 @@
 
 ## Lesson Materials
 
+📖 Upload as Material in Google Classroom:
 - [Slides](https://docs.google.com/presentation/d/1psB3BvsfdcBYTYIXNx30jwI84rAaQ5IhDWb4lg6s42Q/edit?usp=sharing)
 - [Coding Exercise(s)]
 
