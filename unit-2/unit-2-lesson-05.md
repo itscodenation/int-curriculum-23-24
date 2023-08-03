@@ -1,9 +1,17 @@
 # Lesson 2.5: Intro to CSS
 
+<br>
+
 ## Lesson Materials
+
+📖 Upload as Material in Google Classroom:
 - [Slides](https://docs.google.com/presentation/d/1HJ0E9KOGga7amRSR5OwIc8Qli1AKC3O2IzMea6VCVhw/edit?usp=sharing)
-- [Coding Exercises]
-- [Unit 2 Exit Tickets](https://forms.gle/UWFoGfzJGQZqeeb59)
+- [Coding Exercise(s)]
+
+📝 Upload as Assignment in Google Classroom (5 points):
+- [Exit Ticket](https://forms.gle/eA7oJj7C3F1X9QmR6)
+
+<br>
 
 ## Key Points
 asadaf.
