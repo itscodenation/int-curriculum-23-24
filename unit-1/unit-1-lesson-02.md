@@ -9,7 +9,7 @@
 - [Coding Exercise(s)](https://popcode.org/?snapshot=eb99c80f-f102-4c8e-a488-64e01c30e943)
 
 📝 Upload as Assignment in Google Classroom (5 points):
-- [Exit Ticket](https://forms.gle/maHRBfZMZQPj2aJ48)
+- [Exit Ticket](https://forms.gle/JcHabhDq5ZzprZcJ9)
 
 <br>
 
