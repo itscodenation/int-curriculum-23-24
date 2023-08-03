@@ -1,4 +1,4 @@
-# Lesson 2.8: Stylesheets & Documentation
+# Lesson 2.8: Spacing & Position
 
 <br>
 
