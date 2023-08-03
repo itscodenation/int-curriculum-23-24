@@ -1,8 +1,14 @@
 # Lesson 2.15: Project Work Time & Presentation Prep
 
+<br>
+
 ## Lesson Materials
+
+📖 Upload as Material in Google Classroom:
 - [Slides](https://docs.google.com/presentation/d/11hf3wFXWKxJrTlPFOZiXeL_ASsTtvjvohVusUUyGARE/edit?usp=sharing)
 - [Coding Exercises]
+
+<br>
 
 ## Key Points
 asadaf.
