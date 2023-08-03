@@ -1,5 +1,7 @@
 # Lesson 2.11: Debugging & Project Work Time
 
+<br>
+
 ## Lesson Materials
 
 📖 Upload as Material in Google Classroom:
