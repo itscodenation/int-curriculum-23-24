@@ -24,5 +24,7 @@
 
 ## Vocabulary
 
+front-end developer, web development, HTML, CSS, JavaScript (as a group), webpage, GitHub, version control, repository, forking, IDE (Integrated Development Environment)
+
 
 ---
