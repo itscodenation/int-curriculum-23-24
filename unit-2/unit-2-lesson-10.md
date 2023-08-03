@@ -1,9 +1,15 @@
 # Lesson 2.10: Making Tech Accessible
 
 ## Lesson Materials
+
+📖 Upload as Material in Google Classroom:
 - [Slides](https://docs.google.com/presentation/d/1ahtQGcfN6IbTsXFvfOr18d6b5SDnY7AzsjPY8H1Av3o/edit?usp=sharing)
-- [Coding Exercises]
-- [Unit 2 Exit Tickets](https://forms.gle/UWFoGfzJGQZqeeb59)
+- [Coding Exercise(s)]
+
+📝 Upload as Assignment in Google Classroom (5 points):
+- [Exit Tickets](https://forms.gle/8tMGyg4GdDrTWdvy8)
+
+<br>
 
 ## Key Points
 asadaf.
