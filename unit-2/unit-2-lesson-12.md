@@ -1,8 +1,14 @@
 # Lesson 2.12: Project Work Time
 
+<br>
+
 ## Lesson Materials
+
+📖 Upload as Material in Google Classroom:
 - [Slides](https://docs.google.com/presentation/d/1udsJGS5yrhaSW5PQfqzxQV8ZadvcSCg3PcrH_QBJR-E/edit?usp=sharing)
-- [Coding Exercises]
+- [Coding Exercise(s)]
+
+<br>
 
 ## Key Points
 asadaf.
