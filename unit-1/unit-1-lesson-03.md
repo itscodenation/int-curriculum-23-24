@@ -14,7 +14,7 @@
 <br>
 
 ## Key Points
-This lesson will introduce the integrated development environment (IDE) we'll use in class - Replit - and some practice on using the browser's developer tools.
+This lesson will introduce the integrated development environment (IDE) we'll use in class - Replit - and some practice on using the integrated developer tools.
 
 
 - 👋 Welcome & Do Now (10) : 
