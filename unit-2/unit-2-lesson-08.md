@@ -5,7 +5,7 @@
 ## Lesson Materials
 
 📖 Upload as Material in Google Classroom:
-- [Slides](https://docs.google.com/presentation/d/1C-mFqf-I0Mcw1iTpw1UCzPEUED-4TqD0qA0dfGPxpOw/edit?usp=sharing)
+- [Slides](https://docs.google.com/presentation/d/1M25Koq1T7FlayjKNB515GnqoLA6CKIDLr0FFSqWXlU4/edit?usp=sharing)
 - [Coding Exercise(s)]
 
 📝 Upload as Assignment in Google Classroom (5 points):
