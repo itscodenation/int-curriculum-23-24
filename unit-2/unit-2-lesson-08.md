@@ -1,9 +1,17 @@
 # Lesson 2.8: Stylesheets & Documentation
 
+<br>
+
 ## Lesson Materials
+
+📖 Upload as Material in Google Classroom:
 - [Slides](https://docs.google.com/presentation/d/1C-mFqf-I0Mcw1iTpw1UCzPEUED-4TqD0qA0dfGPxpOw/edit?usp=sharing)
-- [Coding Exercises]
-- [Unit 2 Exit Tickets](https://forms.gle/UWFoGfzJGQZqeeb59)
+- [Coding Exercise(s)]
+
+📝 Upload as Assignment in Google Classroom (5 points):
+- [Exit Ticket](https://forms.gle/EaqPKvrbyeJ8uZcv5)
+
+<br>
 
 ## Key Points
 asadaf.
