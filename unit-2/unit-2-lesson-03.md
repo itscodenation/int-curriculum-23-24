@@ -1,9 +1,17 @@
 # Lesson 2.3: Project Intro & Brainstorming
 
+<br>
+
 ## Lesson Materials
-- [Slides](https://docs.google.com/presentation/d/1q1oo12nwso3tM4RULl2wJZGYUpEDkOWT1FZN2q6WqVU/edit?usp=sharing)
-- [Coding Exercises]
-- [Unit 2 Exit Tickets](https://forms.gle/UWFoGfzJGQZqeeb59)
+
+📖 Upload as Material in Google Classroom:
+- [Slides](https://docs.google.com/presentation/d/1q1oo12nwso3tM4RULl2wJZGYUpEDkOWT1FZN2q6WqVU/edit?usp=sharing) (make a copy for your program - upload the copy)
+- [Coding Exercise(s)]
+
+📝 Upload as Assignment in Google Classroom (5 points):
+- [Exit Ticket](https://forms.gle/GrufAuexKqy2esXK6)
+
+<br>
 
 ## Key Points
 asadaf.
