@@ -1,8 +1,8 @@
 # Lesson 2.10: Making Tech Accessible
 
-## Lesson Materials
-
 <br>
+
+## Lesson Materials
 
 📖 Upload as Material in Google Classroom:
 - [Slides](https://docs.google.com/presentation/d/1ahtQGcfN6IbTsXFvfOr18d6b5SDnY7AzsjPY8H1Av3o/edit?usp=sharing)
