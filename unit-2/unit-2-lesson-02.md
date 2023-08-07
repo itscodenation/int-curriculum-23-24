@@ -21,14 +21,14 @@ asadaf.
     - Instruct them to fork today's exercises from GitHub.
     - Present the problem: "This website about sloths is missing some information."
     - Instruct students to complete the following tasks in the index.html file:
-        - Create an <h1> tag that says "Sloths!"
-        - Create a <p> tag that says "Sloths are the slowest animal in the world. Womp, womp.". <br><br>
+        - Create an `<h1>` tag that says "Sloths!"
+        - Create a `<p>` tag that says "Sloths are the slowest animal in the world. Womp, womp.". <br><br>
 
 - 🔗 Anchor and Image Tags (10) :
-    - Discuss the <a href...> and <img src...> tags.
+    - Discuss the `<a href...>` and `<img src...>` tags.
     - Engage students with questions:
         - What do you think these tags are doing?
-        - How do these tags look different from <p> tags and <h1> tags?
+        - How do these tags look different from `<p>` tags and `<h1>` tags?
     - Explain anchor tags:
         - Create a clickable link that allows users to jump to different pages on the web.
     - Explain image tags:
@@ -41,7 +41,7 @@ asadaf.
 
 - 📄 Refresher: Lists (5) :
     - Recap lists in HTML: ordered and unordered.
-    - Show examples of ordered and unordered lists using <ol> and <ul> tags with <li> (list item) tags.<br><br>
+    - Show examples of ordered and unordered lists using `<ol>` and `<ul>` tags with `<li>` (list item) tags.<br><br>
 
 - 💻 Coding Solo (5) : 
     - Open the code-solo.html file and have students complete tasks related to lists.
