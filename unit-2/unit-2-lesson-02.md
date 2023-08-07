@@ -17,26 +17,45 @@
 asadaf.
 
 - 👋 Welcome & Do Now (5) : 
-    -  asadaf. <br><br>
+    - Welcome the students and have them log in to Google Classroom for today's lesson.
+    - Instruct them to fork today's exercises from GitHub.
+    - Present the problem: "This website about sloths is missing some information."
+    - Instruct students to complete the following tasks in the index.html file:
+        - Create an <h1> tag that says "Sloths!"
+        - Create a <p> tag that says "Sloths are the slowest animal in the world. Womp, womp.". <br><br>
 
 - 🔗 Anchor and Image Tags (10) :
-    - asadaf.<br><br>
+    - Discuss the <a href...> and <img src...> tags.
+    - Engage students with questions:
+        - What do you think these tags are doing?
+        - How do these tags look different from <p> tags and <h1> tags?
+    - Explain anchor tags:
+        - Create a clickable link that allows users to jump to different pages on the web.
+    - Explain image tags:
+        - Allow the insertion of images on web pages using the src attribute.
+    - Show examples of anchor tags with different links and discuss the attributes.
+    - Show an example of an image tag with the src attribute.<br><br>
 
 - 💻 Coding Along (5) : 
-    - asadaf. <br><br>
+    - Open the code-along.html file and guide students through the tasks related to anchor and image tags. <br><br>
 
 - 📄 Refresher: Lists (5) :
-    - asadaf.<br><br>
+    - Recap lists in HTML: ordered and unordered.
+    - Show examples of ordered and unordered lists using <ol> and <ul> tags with <li> (list item) tags.<br><br>
 
 - 💻 Coding Solo (5) : 
-    - asadaf. <br><br>
+    - Open the code-solo.html file and have students complete tasks related to lists.
+    - Challenges (If time permits)
+        - Encourage students to test their knowledge with additional challenges related to HTML Links, HTML Images, and HTML Lists. <br><br>
 
 - 👋 Exit Ticket & Closing (5)
+    - Instruct students to complete the Exit Ticket for Lesson 2.2 - HTML Tags w/ Attributes in Google Classroom.
+    - Remind them to press submit after completing the Exit Ticket.
 
 
 ## Common Misconceptions
-asadaf.
+n/a
 
 
 ## Additional Materials
-- asadaf.
+n/a
