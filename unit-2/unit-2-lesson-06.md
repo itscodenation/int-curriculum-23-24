@@ -14,7 +14,7 @@
 <br>
 
 ## Key Points
-asadaf.
+This lesson covers class attributes which enable grouping and distinct styling of specific HTML elements. They overcome uniform styling limitations and increase CSS specificity. By assigning classes, you can target elements individually for unique design.
 
 
 - 👋 Welcome & Do Now (5) : 
