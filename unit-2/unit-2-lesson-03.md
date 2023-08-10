@@ -6,7 +6,7 @@
 
 📖 Upload as Material in Google Classroom:
 - [Slides](https://docs.google.com/presentation/d/1q1oo12nwso3tM4RULl2wJZGYUpEDkOWT1FZN2q6WqVU/edit?usp=sharing) (make a copy for your program - upload the copy)
-- [Coding Exercise(s)]
+- There are no coding exercise for this lesson. Students will begin project planning.
 
 📝 Upload as Assignment in Google Classroom (5 points):
 - [Exit Ticket](https://forms.gle/GrufAuexKqy2esXK6)
