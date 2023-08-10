@@ -10,7 +10,7 @@
 - There are no coding exercises for this lesson. Students will begin project planning.
 
 📝 Upload as Assignment in Google Classroom (Ungraded):
-- [Unit 2 Project Plan](https://docs.google.com/document/d/1VKah1XPtkCOXuHCE2CpxLuP3DC91c4n9CFlHTHHZiqI/edit?usp=sharing) (choose the dropdown option: Make a copy for each student)
+- [Unit 2 Project Plan](https://docs.google.com/document/d/1VKah1XPtkCOXuHCE2CpxLuP3DC91c4n9CFlHTHHZiqI/edit?usp=sharing) (choose the dropdown option: "Make a copy for each student")
 
 📝 Upload as Assignment in Google Classroom (5 points):
 - [Exit Ticket](https://forms.gle/GrufAuexKqy2esXK6)
