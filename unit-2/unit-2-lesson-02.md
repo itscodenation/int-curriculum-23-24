@@ -14,7 +14,8 @@
 <br>
 
 ## Key Points
-asadaf.
+
+In this lesson, students will learn to use anchor and image tags, understanding their purposes and differences from other HTML tags. The lesson also touches on HTML lists, both ordered and unordered, followed by optional challenges to test their comprehension. The session concludes with an exit ticket to assess learning and a reminder to submit their work.
 
 - 👋 Welcome & Do Now (5) : 
     - Welcome the students and have them log in to Google Classroom for today's lesson.
