@@ -57,13 +57,15 @@ Other: wireframe
 Students will use HTML and CSS to build a website for an issue or topic they are passionate about. This website can be centered around a social justice issue, an issue in their school or community, or an issue related to a hobby or interest they have. 
 
 ### Project Materials
-- Exemplar Projects: [Exemplar 1](https://maxwilliams361.github.io/Example-Project/#reusable_bag), [Exemplar 2](https://maxwilliams361.github.io/Sample-Project-Start-Code-2), [Exemplar 3](https://maxwilliams361.github.io/Sample-Project-Starter-Code-3/) 
 - [Project Plan](https://docs.google.com/document/d/1VKah1XPtkCOXuHCE2CpxLuP3DC91c4n9CFlHTHHZiqI/edit#heading=h.mw7c7ymg9fig)
     - Students will use this to plan the project. It will be completed over several classes.
-- [Project Rubric](https://docs.google.com/document/d/1-TPAVVylABgVcBTaSWEUrLW2-WYQ2S3fkIG7huS4Vsw/edit)
-- [Project Rubric for Google Classroom Import](https://docs.google.com/spreadsheets/d/1Pcm0Z6Y1go8Vho9UXGcDR6AuWs4c2Rg5BowuXycAYyo/edit#gid=241290541)
 - Starter Code Templates:
-    - Template 1: [Popcode](https://popcode.org/?snapshot=2fd6de0c-20d8-44b6-a306-8c10e62f3db6) | [Replit](https://replit.com/@maxwilliams361/Intro-Unit-2-Project-Starter-Code-1)
-    - Template 2: [Popcode](https://popcode.org/?snapshot=38a132ee-3df7-4466-abec-5fcfe52dfd23) | [Replit](https://replit.com/@maxwilliams361/Intro-Unit-2-Starter-Code-2#index.html)
-    - Template 3: [Popcode](https://popcode.org/?snapshot=65d34578-25f8-4cde-ab86-e07bb0802f86) | [Replit](https://replit.com/@maxwilliams361/Intro-Unit-2-Project-Starter-Code-3#index.html)
+    - [Option 1](https://github.com/itscodenation/int-u2-project-23-24-starter-code-1/tree/main)
+        - [Example 1](https://maxwilliams361.github.io/Example-Project/#reusable_bag)
+    - [Option 2](https://github.com/itscodenation/int-u2-project-23-24-starter-code-2/tree/main)
+        - [Example 2](https://maxwilliams361.github.io/Sample-Project-Start-Code-2)
+    - [Option 3](https://github.com/itscodenation/int-u2-project-23-24-starter-code-3)
+        - [Example 3](https://maxwilliams361.github.io/Sample-Project-Starter-Code-3/)
+- [Project Rubric](https://docs.google.com/document/d/1-TPAVVylABgVcBTaSWEUrLW2-WYQ2S3fkIG7huS4Vsw/edit)
+- [Project Rubric for Google Classroom Import](https://docs.google.com/spreadsheets/d/1Pcm0Z6Y1go8Vho9UXGcDR6AuWs4c2Rg5BowuXycAYyo/edit#gid=241290541) 
 
