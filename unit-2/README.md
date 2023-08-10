@@ -60,9 +60,9 @@ Students will use HTML and CSS to build a website for an issue or topic they are
 - [Project Plan](https://docs.google.com/document/d/1VKah1XPtkCOXuHCE2CpxLuP3DC91c4n9CFlHTHHZiqI/edit#heading=h.mw7c7ymg9fig)
     - Students will use this to plan the project. It will be completed over several classes.
 - Starter Code Templates:
-    - [Option 1](https://github.com/itscodenation/int-u2-project-23-24-starter-code-1/tree/main) // [Example 1](https://maxwilliams361.github.io/Example-Project/#reusable_bag)
-    - [Option 2](https://github.com/itscodenation/int-u2-project-23-24-starter-code-2/tree/main) // [Example 2](https://maxwilliams361.github.io/Sample-Project-Start-Code-2)
-    - [Option 3](https://github.com/itscodenation/int-u2-project-23-24-starter-code-3) // [Example 3](https://maxwilliams361.github.io/Sample-Project-Starter-Code-3/)
+    - [Option 1](https://github.com/itscodenation/int-u2-project-23-24-starter-code-1/tree/main) - [Example 1](https://maxwilliams361.github.io/Example-Project/#reusable_bag)
+    - [Option 2](https://github.com/itscodenation/int-u2-project-23-24-starter-code-2/tree/main) - [Example 2](https://maxwilliams361.github.io/Sample-Project-Start-Code-2)
+    - [Option 3](https://github.com/itscodenation/int-u2-project-23-24-starter-code-3) - [Example 3](https://maxwilliams361.github.io/Sample-Project-Starter-Code-3/)
 - [Project Rubric](https://docs.google.com/document/d/1-TPAVVylABgVcBTaSWEUrLW2-WYQ2S3fkIG7huS4Vsw/edit)
 - [Project Rubric for Google Classroom Import](https://docs.google.com/spreadsheets/d/1Pcm0Z6Y1go8Vho9UXGcDR6AuWs4c2Rg5BowuXycAYyo/edit#gid=241290541) 
 
