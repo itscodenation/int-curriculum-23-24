@@ -18,29 +18,45 @@
 <br>
 
 ## Key Points
-asadaf.
+The lesson introduces students to a coding project called "Websites for Change," focusing on a topic they're passionate about. Through activities and discussions, students explore how technology can be used for societal change, gather inspiration from existing websites, and begin planning their projects by identifying the features of an effective informational website. The lesson is structured with various interactive components, including a "Do Now" activity, video presentation, brainstorming sessions, and reflection moments.
 
 
 - 👋 Welcome & Do Now (5) : 
-    -  asadaf. <br><br>
+    - Lead volunteer to introduce the icebreaker activity.
+    - Students respond to statements in the Do Now Padlet.
+    - Share out responses.<br><br>
 
 - 🗣️ Project Intro (6) : 
-    - asadaf.<br><br>
+    - Present the Unit 2 project to the class.
+    - Share video of George Hofstetter.
+    - Discuss youth using technology for change, with specific examples.<br><br>
 
 - 👀 Project Reveal & Info (5) :
-    - asadaf.<br><br>
+    - Reveal the project: "Websites for Change."
+    - Explain requirements, coding technologies, and due date.
+    - Discuss examples of possible topics and features.<br><br>
 
 - 💡 Inspiration & Ideas (5) : 
-    - asadaf. <br><br>
+    - Open the Project Planning Document in Google Classroom.
+    - Students explore example websites for inspiration.
+    - Discuss common features, informative elements, and design aspects.<br><br>
 
 - 📝 Project Planning (20) : 
-    - asadaf. <br><br>
+    - Introduce features of a great informational website.
+    - Brainstorming Time:
+        - Fill out the "Let's Brainstorm" section.
+        - (Optional) Move on to the "Let's Research" if time permits.
+        - Reflect on the day's progress, challenges, and next steps.
+        - Shoutouts for accomplishments. <br><br>
 
 - 👋 Exit Ticket & Closing (5)
+    - Go to the Lesson 2.3 - Project Intro & Brainstorming Exit Ticket in Google Classroom.
+    - Ensure submission of project plan for the exit ticket.
+    - Closing remarks.
 
 
 ## Common Misconceptions
-asadaf.
+Some students may initially believe that coding is only for creating games or business applications, and they might not see its potential for advocacy or social change. This lesson helps dispel that misconception by illustrating how coding skills can be applied to address important societal issues and passions.
 
 
 ## Additional Materials
