@@ -5,8 +5,11 @@
 ## Lesson Materials
 
 📖 Upload as Material in Google Classroom:
-- [Slides](https://docs.google.com/presentation/d/1udsJGS5yrhaSW5PQfqzxQV8ZadvcSCg3PcrH_QBJR-E/edit?usp=sharing)
+- [Slides](https://docs.google.com/presentation/d/1Gy8noIYmodqWQh3bGRiOsDjutwHJz-1Pm5k-ByDE85k/edit?usp=sharing)
 - [Coding Exercise(s)]
+
+📝 Upload as Assignment in Google Classroom (5 points):
+- [Exit Ticket](https://forms.gle/ZBWXZkVS7LjH6usu5)
 
 <br>
 
@@ -14,14 +17,20 @@
 asadaf.
 
 
-- ⏰ Do Now (5) : 
+- ⏰ Do Now + Share Out (5) : 
     -  asadaf. <br><br>
 
-- 🌈 Hex Colors (5) : 
+- 🌈 Accessibility & Contrast (10) : 
     - asadaf.<br><br>
 
-- 💻 Project Work Time (25) :
+- 💻 Code Along (10) :
     - asadaf.<br><br>
+
+- 🗣️ Alt Attributes (5) : 
+    - asadaf. <br><br>
+
+- 💻 Code It Solo (10) : 
+    - asadaf. <br><br>
 
 - 👋 Exit Ticket & Closing (5) : 
     - asadaf. <br><br>

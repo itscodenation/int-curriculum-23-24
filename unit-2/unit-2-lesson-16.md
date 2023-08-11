@@ -5,7 +5,7 @@
 ## Lesson Materials
 
 📖 Upload as Material in Google Classroom:
-- [Slides](https://docs.google.com/presentation/d/1Ed0KY5cWTN1iIdh8PbgJ-_7MENMCv8jbh8hTRO17GBA/edit?usp=sharing)
+- [Slides](https://docs.google.com/presentation/d/11hf3wFXWKxJrTlPFOZiXeL_ASsTtvjvohVusUUyGARE/edit?usp=sharing)
 - [Coding Exercises]
 
 <br>
@@ -17,19 +17,19 @@ asadaf.
 - ⏰ Do Now (5) : 
     -  asadaf. <br><br>
 
-- 👀 Presentations Overview (5) : 
+- 🗣️ Presentations Intro (10) : 
     - asadaf.<br><br>
 
-- 🗝️ Successful Presentations (5) :
+- ✨ Presentations (20) :
     - asadaf.<br><br>
 
-- 👉 Presentation Demo (5) : 
+- 💪 Coding Challenge Intro! (5) : 
     - asadaf. <br><br>
 
 - 💻 Presentation Work Time (20) : 
     - asadaf. <br><br>
 
-- 👋 Exit Ticket & Closing (5) : 
+- 🎉 Closing & Shout Outs (5) : 
     - asadaf. <br><br>
 
 

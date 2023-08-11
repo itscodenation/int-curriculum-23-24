@@ -5,27 +5,25 @@
 ## Lesson Materials
 
 📖 Upload as Material in Google Classroom:
-- [Slides](https://docs.google.com/presentation/d/1GuiqBSeFStW9mQuiBbAUsn9JFHbIEt-6KvIjnpm109M/edit?usp=sharing)
-- [Coding Exercises]
+- [Slides](https://docs.google.com/presentation/d/1udsJGS5yrhaSW5PQfqzxQV8ZadvcSCg3PcrH_QBJR-E/edit?usp=sharing)
+- [Coding Exercise(s)]
 
 <br>
 
 ## Key Points
 asadaf.
 
+
 - ⏰ Do Now (5) : 
     -  asadaf. <br><br>
 
-- 👥 Peer Feedback (4) : 
+- 🌈 Hex Colors (5) : 
     - asadaf.<br><br>
 
-- 🗣️ Feedback Activity (6) :
+- 💻 Project Work Time (25) :
     - asadaf.<br><br>
 
-- 💻 Project Work Time (20) : 
-    - asadaf. <br><br>
-
-- ✨ Exit Ticket & Shout Outs! (5) : 
+- 👋 Exit Ticket & Closing (5) : 
     - asadaf. <br><br>
 
 

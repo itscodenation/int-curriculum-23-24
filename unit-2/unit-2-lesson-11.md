@@ -1,39 +1,37 @@
-# Lesson 2.11: Debugging & Project Work Time
+# Lesson 2.11: Wireframing & Project Planning
 
 <br>
 
 ## Lesson Materials
 
 📖 Upload as Material in Google Classroom:
-- [Slides](https://docs.google.com/presentation/d/1Gy8noIYmodqWQh3bGRiOsDjutwHJz-1Pm5k-ByDE85k/edit?usp=sharing)
+- [Slides](https://docs.google.com/presentation/d/1psB3BvsfdcBYTYIXNx30jwI84rAaQ5IhDWb4lg6s42Q/edit?usp=sharing)
 - [Coding Exercise(s)]
 
 📝 Upload as Assignment in Google Classroom (5 points):
-- [Exit Ticket](https://forms.gle/ZBWXZkVS7LjH6usu5)
+- [Exit Ticket](https://forms.gle/yy5uNdHH4KBrm1SX9)
 
 <br>
 
 ## Key Points
 asadaf.
 
-
-- ⏰ Do Now + Share Out (5) : 
+- 👋 Welcome & Do Now (3) : 
     -  asadaf. <br><br>
 
-- 🌈 Accessibility & Contrast (10) : 
+- 🔍 Brainstorming & Research (20) : 
     - asadaf.<br><br>
 
-- 💻 Code Along (10) :
+- ⿳ Wireframing & Starter Code (6) :
     - asadaf.<br><br>
 
-- 🗣️ Alt Attributes (5) : 
+- 💡 Project Planning (10): 
     - asadaf. <br><br>
 
-- 💻 Code It Solo (10) : 
+- 📝 Project Planning (20) : 
     - asadaf. <br><br>
 
-- 👋 Exit Ticket & Closing (5) : 
-    - asadaf. <br><br>
+- 👋 Exit Ticket & Closing (1)
 
 
 ## Common Misconceptions

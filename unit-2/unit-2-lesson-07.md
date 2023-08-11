@@ -1,15 +1,15 @@
-# Lesson 2.7: Stylesheets & Documentation
+# Lesson 2.7: Making Tech Accessible
 
 <br>
 
 ## Lesson Materials
 
 📖 Upload as Material in Google Classroom:
-- [Slides](https://docs.google.com/presentation/d/1qbyZ5krMbyU7dyG7M0reNCe3RhPtc6Hj_OYjhM1I26w/edit?usp=sharing)
+- [Slides](https://docs.google.com/presentation/d/1ahtQGcfN6IbTsXFvfOr18d6b5SDnY7AzsjPY8H1Av3o/edit?usp=sharing)
 - [Coding Exercise(s)]
 
 📝 Upload as Assignment in Google Classroom (5 points):
-- [Exit Ticket]
+- [Exit Ticket](https://forms.gle/8tMGyg4GdDrTWdvy8)
 
 <br>
 
@@ -20,19 +20,19 @@ asadaf.
 - ⏰ Do Now + Share Out (5) : 
     -  asadaf. <br><br>
 
-- 🖍️ Stylesheets (10) : 
+- 🌈 Accessibility & Contrast (10) : 
     - asadaf.<br><br>
 
-- 💻 Code Along (5) :
+- 💻 Code Along (10) :
     - asadaf.<br><br>
 
-- 📑 Documentation (10) : 
+- 🗣️ Alt Attributes (5) : 
     - asadaf. <br><br>
 
-- 💻 Code Solo (10) : 
+- 💻 Code It Solo (10) : 
     - asadaf. <br><br>
 
-- ✨ Exit Ticket & Shout Outs (5)
+- 👋 Exit Ticket & Closing (5) : 
     - asadaf. <br><br>
 
 

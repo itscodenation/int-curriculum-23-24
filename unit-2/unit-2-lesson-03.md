@@ -1,62 +1,51 @@
-# Lesson 2.3: Project Intro & Brainstorming
+# Lesson 2.3: Intro to CSS
 
 <br>
 
 ## Lesson Materials
 
 📖 Upload as Material in Google Classroom:
-- [Slides](https://docs.google.com/presentation/d/1q1oo12nwso3tM4RULl2wJZGYUpEDkOWT1FZN2q6WqVU/edit?usp=sharing) (make a copy for your program - upload the copy)
-- [Do Now Padlet](https://codenation.padlet.org/mikahughes/2-3-do-now-n58h8qv48o7clicc) (remake this padlet and upload the copy - be sure to check the "Copy design" and "Copy posts" checkboxes)
-- There are no coding exercises for this lesson. Students will begin project planning.
-
-📝 Upload as Assignment in Google Classroom (Ungraded):
-- [Unit 2 Project Plan](https://docs.google.com/document/d/1VKah1XPtkCOXuHCE2CpxLuP3DC91c4n9CFlHTHHZiqI/edit?usp=sharing) (choose the dropdown option: "Make a copy for each student")
+- [Slides](https://docs.google.com/presentation/d/1HJ0E9KOGga7amRSR5OwIc8Qli1AKC3O2IzMea6VCVhw/edit?usp=sharing) (make a copy for your program - upload the copy)
+- [Coding Exercise(s)](https://github.com/itscodenation/int-u2l5-23-24-student-exercises)
 
 📝 Upload as Assignment in Google Classroom (5 points):
-- [Exit Ticket](https://forms.gle/GrufAuexKqy2esXK6)
+- [Exit Ticket](https://forms.gle/eA7oJj7C3F1X9QmR6)
 
 <br>
 
 ## Key Points
-The lesson introduces students to a coding project called "Websites for Change," focusing on a topic they're passionate about. Through activities and discussions, students explore how technology can be used for societal change, gather inspiration from existing websites, and begin planning their projects by identifying the features of an effective informational website. The lesson is structured with various interactive components, including a "Do Now" activity, video presentation, brainstorming sessions, and reflection moments.
+In this CSS introduction, students will learn to style web content using Cascading Style Sheets (CSS). They'll understand the role of CSS in changing elements' appearance, grasp the basics of writing CSS rules, and appreciate how HTML and CSS work together to create visually appealing web pages. Through practical exercises, students will gain hands-on experience in applying styling techniques to enhance their web design skills.
 
 
-- 👋 Welcome & Do Now (5) : 
-    - Lead volunteer to introduce the icebreaker activity.
-    - Students respond to statements in the Do Now Padlet.
-    - Share out responses.<br><br>
+- ⏰ Do Now & Share Out (4) : 
+    -  Kick off active learning with a "Do Now" activity:
+        -  Ask students what happened when they changed the width value and color value in CSS.
+        -  Encourage them to deduce what CSS does based on their observations. <br><br>
 
-- 🗣️ Project Intro (6) : 
-    - Present the Unit 2 project to the class.
-    - Share video of George Hofstetter.
-    - Discuss youth using technology for change, with specific examples.<br><br>
+- 🎨 CSS (6) : 
+    - Explain the significance of styling a webpage.
+    - Explore the concept of Cascading Style Sheets (CSS) and how it adds style to websites.
+    - Highlight CSS's role in changing color, spacing, fonts, positioning, and animations.
+    - Present the notion of HTML and CSS working together to structure and style web content..<br><br>
 
-- 👀 Project Reveal & Info (5) :
-    - Reveal the project: "Websites for Change."
-    - Explain requirements, coding technologies, and due date.
-    - Discuss examples of possible topics and features.<br><br>
+- 💻 Code Along (5) :
+    - Guide students through writing CSS code step by step.
+    - Introduce commonly used CSS properties and their values.
+    - Provide examples of properties like color, background-color, width, text-align, and font-size.
+    - Emphasize the importance of correct syntax and paying attention to error messages.<br><br>
 
-- 💡 Inspiration & Ideas (5) : 
-    - Open the Project Planning Document in Google Classroom.
-    - Students explore example websites for inspiration.
-    - Discuss common features, informative elements, and design aspects.<br><br>
+- 🖼️ CSS Properties & Values (5) 
 
-- 📝 Project Planning (20) : 
-    - Introduce features of a great informational website.
-    - Brainstorming Time:
-        - Fill out the "Let's Brainstorm" section.
-        - (Optional) Move on to the "Let's Research" if time permits.
-        - Reflect on the day's progress, challenges, and next steps.
-        - Shoutouts for accomplishments. <br><br>
+- 💻 Code Solo (15): 
+    - Give students the opportunity to practice writing CSS code independently.
+    - After student complete the four tasks, they should try the extra practices linked in the lesson slides.
+    - Encourage them to apply what they've learned and explore their creativity. <br><br>
 
-- 👋 Exit Ticket & Closing (5)
-    - Go to the Lesson 2.3 - Project Intro & Brainstorming Exit Ticket in Google Classroom.
-    - Ensure submission of project plan for the exit ticket.
-    - Closing remarks.
+- 👋 Exit Ticket & Closing (4)
 
 
 ## Common Misconceptions
-Some students may initially believe that coding is only for creating games or business applications, and they might not see its potential for advocacy or social change. This lesson helps dispel that misconception by illustrating how coding skills can be applied to address important societal issues and passions.
+CSS Only Affects Text: Some students might initially believe that CSS only affects text styling, such as fonts and colors. It's important to clarify that CSS can also control layout, positioning, background images, and more.
 
 
 ## Additional Materials
