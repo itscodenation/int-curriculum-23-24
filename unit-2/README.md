@@ -6,7 +6,6 @@
 ## Deliverables
 
 - Code Nation Registration
-- Beginning of Year Survey
 - Exit Tickets
 - Unit 2 Project
 
