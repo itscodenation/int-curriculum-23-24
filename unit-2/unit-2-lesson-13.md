@@ -6,7 +6,7 @@
 
 📖 Upload as Material in Google Classroom:
 - [Slides](https://docs.google.com/presentation/d/1udsJGS5yrhaSW5PQfqzxQV8ZadvcSCg3PcrH_QBJR-E/edit?usp=sharing)
-- [Coding Exercise(s)]
+- There are no coding exercises for this lesson. Students will work on their projects.
 
 <br>
 
