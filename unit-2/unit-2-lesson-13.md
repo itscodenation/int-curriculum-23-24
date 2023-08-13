@@ -17,10 +17,7 @@ asadaf.
 - ⏰ Do Now (5) : 
     -  asadaf. <br><br>
 
-- 🌈 Hex Colors (5) : 
-    - asadaf.<br><br>
-
-- 💻 Project Work Time (25) :
+- 💻 Project Work Time (30) :
     - asadaf.<br><br>
 
 - 👋 Exit Ticket & Closing (5) : 

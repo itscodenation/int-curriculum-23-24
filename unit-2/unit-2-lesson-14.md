@@ -16,13 +16,7 @@ asadaf.
 - ⏰ Do Now (5) : 
     -  asadaf. <br><br>
 
-- 👥 Peer Feedback (4) : 
-    - asadaf.<br><br>
-
-- 🗣️ Feedback Activity (6) :
-    - asadaf.<br><br>
-
-- 💻 Project Work Time (20) : 
+- 💻 Project Work Time (30) : 
     - asadaf. <br><br>
 
 - ✨ Exit Ticket & Shout Outs! (5) : 

@@ -23,9 +23,6 @@ asadaf.
 - ✨ Presentations (20) :
     - asadaf.<br><br>
 
-- 💪 Coding Challenge Intro! (5) : 
-    - asadaf. <br><br>
-
 - 💻 Presentation Work Time (20) : 
     - asadaf. <br><br>
 
