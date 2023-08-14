@@ -23,7 +23,7 @@ asadaf.
 - ✨ Presentations (20) :
     - asadaf.<br><br>
 
-- 💻 Presentation Work Time (20) : 
+- ✍️ Survey (5) : 
     - asadaf. <br><br>
 
 - 🎉 Closing & Shout Outs (5) : 
