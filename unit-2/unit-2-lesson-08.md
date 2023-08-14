@@ -9,7 +9,7 @@
 - [Coding Exercise(s)]
 
 📝 Upload as Assignment in Google Classroom (5 points):
-- [Exit Ticket]
+- [Exit Ticket](https://forms.gle/ZBWXZkVS7LjH6usu5)
 
 <br>
 
