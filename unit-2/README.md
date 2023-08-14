@@ -2,12 +2,14 @@
 <img src="https://live.staticflickr.com/65535/53026028823_c9c75baa04_k.jpg" alt="int-unit-1-banner" width="100%">
 </div>
 
-
 ## Deliverables
 
 - Code Nation Registration
 - Exit Tickets
 - Unit 2 Project
+
+## Student Resources
+- [Unit 2 Guided Notes](https://docs.google.com/document/d/1ncuqv9YnF2rdpQRKC9tk5rYwGDsEpNDNdvAch-vPlqQ/edit?usp=sharing) (print out as a packet for students)
 
 ---
 
