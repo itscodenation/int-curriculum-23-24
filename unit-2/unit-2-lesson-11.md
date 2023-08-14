@@ -14,7 +14,7 @@
 <br>
 
 ## Key Points
-asadaf.
+This lesson is designed to guide students through the essential phases of building a website for a topic they're passionate about. Focus is on importance of research in gathering ideas and resources, understanding and selecting a wireframe to sketch the website's layout, and utilizing starter code to begin the development process. Additionally, the lesson emphasizes the real-world application of these skills in UI/UX design, providing a contextual framework for students to understand the relevance of what they're learning.
 
 - 👋 Welcome & Do Now (3) : 
     -  Welcome students & review the day's agenda.<br><br>
