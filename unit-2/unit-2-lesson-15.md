@@ -1,4 +1,4 @@
-# Lesson 2.15: Project Work Time & Presentation Prep
+# Lesson 2.15: Presentation Prep
 
 <br>
 
