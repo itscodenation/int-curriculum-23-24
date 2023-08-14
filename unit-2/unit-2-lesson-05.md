@@ -14,7 +14,7 @@
 <br>
 
 ## Key Points
-asadaf.
+This lesson focuses on two key points: how to link CSS to HTML - both internally using the <style> tag and externally using the <link> tag and it emphasizes the vital role of documentation in coding with hands-on practice.
 
 
 - 👋 Welcome (5) : 
