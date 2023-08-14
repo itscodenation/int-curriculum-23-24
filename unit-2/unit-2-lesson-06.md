@@ -14,7 +14,7 @@
 <br>
 
 ## Key Points
-asadaf.
+This lesson focuses on three key areas: understanding the Box Model, which breaks down the layout of an element into content, padding, border, and margin; utilizing Flexbox, a collection of CSS properties for neatly arranging elements on a web page; and introducing positioning properties for precise control over element placement.
 
 
 - 👋 Welcome (2) : 
