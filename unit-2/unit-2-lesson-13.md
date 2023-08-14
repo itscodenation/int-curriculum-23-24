@@ -1,4 +1,4 @@
-# Lesson 2.13: Project Work Time
+# Lesson 2.13: Project Work Time, Day 2
 
 <br>
 
