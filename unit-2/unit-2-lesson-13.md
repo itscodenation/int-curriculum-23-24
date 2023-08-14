@@ -14,7 +14,7 @@
 <br>
 
 ## Key Points
-This lesson marks day 1 of a 3-day work time series focused on continuing students' progress on their Unit 2 project. Emphasizing hands-on practice, students will open their existing projects, complete any unfinished tasks, and learn to add specific tags to their websites.
+This lesson marks day 2 of a 3-day work time series focused on continuing students' progress on their Unit 2 project. Emphasizing hands-on practice, students will open their existing projects, complete any unfinished tasks, and learn to add specific tags to their websites.
 
 - 👋 Welcome (5) : 
     - Welcome students to the lesson and recap what they worked on in their last class.
