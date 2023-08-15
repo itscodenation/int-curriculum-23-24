@@ -17,8 +17,10 @@
 asadaf.
 
 
-- ⏰ Do Now (5) : 
-    -  asadaf. <br><br>
+- 👋 Welcome (5) : 
+    -  Transition students into learning mode and set expectations for the day's activities.
+    -  You may present a brief quiz or interactive discussion that reviews previously learned concepts.
+Materials: Optional quiz or discussion prompts. <br><br>
 
 - 🔦 Student Spotlight! (5) : 
     - asadaf.<br><br>
