@@ -5,7 +5,7 @@
 ## Lesson Materials
 
 📖 Upload as Material in Google Classroom:
-- [Slides](https://docs.google.com/presentation/d/1M25Koq1T7FlayjKNB515GnqoLA6CKIDLr0FFSqWXlU4/edit?usp=sharing)
+- [Slides](https://docs.google.com/presentation/d/1M25Koq1T7FlayjKNB515GnqoLA6CKIDLr0FFSqWXlU4/edit?usp=sharing) (make a copy for your program - upload the copy)
 - [Coding Exercise(s)](https://github.com/CN-Mika/int-u2l6-23-24-student-exercises)
 
 📝 Upload as Assignment in Google Classroom (5 points):
