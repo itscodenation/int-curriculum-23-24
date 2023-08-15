@@ -5,7 +5,7 @@
 ## Lesson Materials
 
 📖 Upload as Material in Google Classroom:
-- [Slides](https://docs.google.com/presentation/d/1Ed0KY5cWTN1iIdh8PbgJ-_7MENMCv8jbh8hTRO17GBA/edit?usp=sharing)
+- [Slides](https://docs.google.com/presentation/d/1Ed0KY5cWTN1iIdh8PbgJ-_7MENMCv8jbh8hTRO17GBA/edit?usp=sharing) (make a copy for your program - upload the copy)
 - There are no coding exercises for this lesson. Students will work on their projects.
 
 📝 Upload as Assignment in Google Classroom (Ungraded):
