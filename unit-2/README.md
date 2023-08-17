@@ -9,7 +9,7 @@
 - Unit 2 Project
 
 ## Student/Printing Resources
-- [Unit 2 Guided Notes](https://docs.google.com/document/d/1ncuqv9YnF2rdpQRKC9tk5rYwGDsEpNDNdvAch-vPlqQ/edit?usp=sharing) (print out as a packet for students)
+- [Unit 2 Guided Notes](https://docs.google.com/document/d/1ncuqv9YnF2rdpQRKC9tk5rYwGDsEpNDNdvAch-vPlqQ/edit?usp=sharing)
 - [Project Plan](https://docs.google.com/document/d/1VKah1XPtkCOXuHCE2CpxLuP3DC91c4n9CFlHTHHZiqI/edit#heading=h.mw7c7ymg9fig)
     - Students will use this to plan the project. It will be completed over several classes.
 
