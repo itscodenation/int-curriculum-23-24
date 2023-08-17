@@ -9,7 +9,7 @@
 - There are no coding exercises for this lesson. Students will work on their projects.
 
 📝 Upload as Assignment in Google Classroom (Ungraded):
-- [Project Submission Form](https://forms.gle/jpemUa2fTs6DFdCX8)
+- [Project Submission Form](https://forms.gle/jpemUa2fTs6DFdCX8) (DO NOT MAKE A COPY - upload as link)
 
 
 <br>
