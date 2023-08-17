@@ -9,7 +9,7 @@
 - There are no coding exercises for this lesson. Students will complete a coding challenge.
 
 📝 Upload as Assignment in Google Classroom (10 points):
-- [Coding Challenge](https://forms.gle/ceodJkNa5tLWRGTj9)
+- [Coding Challenge](https://forms.gle/ceodJkNa5tLWRGTj9) (DO NOT MAKE A COPY - upload as link)
 
 <br>
 
