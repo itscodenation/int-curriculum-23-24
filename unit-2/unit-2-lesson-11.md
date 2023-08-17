@@ -9,7 +9,7 @@
 - There are no coding exercises for this lesson. Students will continue project planning.
 
 📝 Upload as Assignment in Google Classroom (5 points):
-- [Exit Ticket](https://forms.gle/yy5uNdHH4KBrm1SX9)
+- [Exit Ticket](https://forms.gle/yy5uNdHH4KBrm1SX9) (DO NOT MAKE A COPY - upload as link)
 
 <br>
 
