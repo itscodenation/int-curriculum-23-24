@@ -10,6 +10,8 @@
 
 ## Student Resources
 - [Unit 2 Guided Notes](https://docs.google.com/document/d/1ncuqv9YnF2rdpQRKC9tk5rYwGDsEpNDNdvAch-vPlqQ/edit?usp=sharing) (print out as a packet for students)
+- [Project Plan](https://docs.google.com/document/d/1VKah1XPtkCOXuHCE2CpxLuP3DC91c4n9CFlHTHHZiqI/edit#heading=h.mw7c7ymg9fig)
+    - Students will use this to plan the project. It will be completed over several classes.
 
 ---
 
@@ -58,8 +60,6 @@ Other: wireframe
 Students will use HTML and CSS to build a website for an issue or topic they are passionate about. This website can be centered around a social justice issue, an issue in their school or community, or an issue related to a hobby or interest they have. 
 
 ### Project Materials
-- [Project Plan](https://docs.google.com/document/d/1VKah1XPtkCOXuHCE2CpxLuP3DC91c4n9CFlHTHHZiqI/edit#heading=h.mw7c7ymg9fig)
-    - Students will use this to plan the project. It will be completed over several classes.
 - Starter Code Templates:
     - [Option 1](https://github.com/itscodenation/int-u2-project-23-24-starter-code-1/tree/main) - [Example 1](https://maxwilliams361.github.io/Example-Project/#reusable_bag)
     - [Option 2](https://github.com/itscodenation/int-u2-project-23-24-starter-code-2/tree/main) - [Example 2](https://maxwilliams361.github.io/Sample-Project-Start-Code-2)
