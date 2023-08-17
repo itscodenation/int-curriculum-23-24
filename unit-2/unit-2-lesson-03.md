@@ -9,7 +9,7 @@
 - [Coding Exercise(s)](https://github.com/itscodenation/int-u2l3-23-24-student-exercises)
 
 📝 Upload as Assignment in Google Classroom (5 points):
-- [Exit Ticket](https://forms.gle/eA7oJj7C3F1X9QmR6)
+- [Exit Ticket](https://forms.gle/eA7oJj7C3F1X9QmR6) (DO NOT MAKE A COPY - upload as link)
 
 <br>
 
