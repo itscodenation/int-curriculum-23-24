@@ -34,11 +34,12 @@
 - String declaration, including the use of single vs. double quotes.<br><br>
 
 💻 Code Solo (15)
-- <br><br>
+- Students apply the concepts of the variable and data types to complete individual coding exercises.
+- Provide assistance as needed, and encourage students to experiment and explore.<br><br>
 
 👋 Exit Ticket & Closing (5)
-- <br><br>
-
+- Direct students to the Exit Ticket in Google Classroom, ensuring all questions are answered.
+- Summarize key takeaways, remind students to submit the exit ticket, and provide any closing remarks.<br><br>
 
 
 ## Common Misconceptions
