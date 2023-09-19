@@ -16,6 +16,28 @@
 
 ## Key Points
 
+👋 Welcome & Do Now (5) :
+- Engage students and set a positive tone for the lesson.<br><br>
+
+📦 Variables (10) :
+- Introduce concept of variables as containers for values.
+- Process of declaring a variable using the "let" keyword.
+- Discuss proper naming conventions for variables (camelCase).
+- Identify limitations on variable names.<br><br>
+
+💻 Code Along (5) : 
+- As the teacher writes code, students should follow along, replicating the steps.<br><br>
+
+🔢 Data Types (5) : 
+- Introduction to data types: numbers and strings.
+- Cover rules and representations for numbers.
+- String declaration, including the use of single vs. double quotes.<br><br>
+
+💻 Code Solo (15)
+- <br><br>
+
+👋 Exit Ticket & Closing (5)
+- <br><br>
 
 
 
