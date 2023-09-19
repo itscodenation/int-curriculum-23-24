@@ -1,4 +1,4 @@
-# Lesson 3.6: DOM Manipulation, Part 2
+# Lesson 3.6: Tech Usage & Events Review
 
 <br>
 
