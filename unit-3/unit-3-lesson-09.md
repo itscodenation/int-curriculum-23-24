@@ -10,9 +10,7 @@
 
 📝 Upload as Assignment in Google Classroom (Ungraded):
 - [Unit 3 Project Plan](https://docs.google.com/document/d/1FiLQneW1nFMrWv3EsB8M3qu831fJRG6fQwS_gwm8jRI/edit?usp=sharing) (choose the dropdown option: "Make a copy for each student")
-
-📝 Upload as Assignment in Google Classroom (5 points):
-- [Exit Ticket]() (DO NOT MAKE A COPY - upload as link)
+- [Project Submission Form](https://forms.gle/jpemUa2fTs6DFdCX8) (DO NOT MAKE A COPY - upload as link)
 
 <br>
 
