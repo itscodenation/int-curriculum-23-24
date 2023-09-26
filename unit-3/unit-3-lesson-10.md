@@ -8,8 +8,10 @@
 - [Slides](https://docs.google.com/presentation/d/1_GWjUBsJ1xSZkJDezqThU25sQ1Xdr99jDMsC-WCge_Q/edit?usp=sharing) (make a copy for your program - upload the copy)
 - There are no coding exercises for this lesson. Students will continue project planning.
 
-📝 Upload as Assignment in Google Classroom (5 points):
-- [Exit Ticket]() (DO NOT MAKE A COPY - upload as link)
+📝 Upload as Assignment in Google Classroom (Ungraded):
+- [Project Submission Form](https://forms.gle/jpemUa2fTs6DFdCX8) (DO NOT MAKE A COPY - upload as link)
+
+
 
 <br>
 
