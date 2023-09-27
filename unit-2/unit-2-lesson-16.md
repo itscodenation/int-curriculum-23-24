@@ -8,6 +8,9 @@
 - [Slides](https://docs.google.com/presentation/d/11hf3wFXWKxJrTlPFOZiXeL_ASsTtvjvohVusUUyGARE/edit?usp=sharing) (make a copy for your program - upload the copy)
 - There are no coding exercises for this lesson. Students will present their projects.
 
+📝 Upload as Assignment in Google Classroom (Ungraded):
+- [Unit 2 Survey](https://forms.gle/5srcNgLcHo64toVr5) (DO NOT MAKE A COPY - upload as link)
+
 <br>
 
 ## Key Points
