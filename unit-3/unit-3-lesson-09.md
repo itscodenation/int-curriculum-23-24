@@ -6,7 +6,7 @@
 
 📖 Upload as Material in Google Classroom:
 - [Slides](https://docs.google.com/presentation/d/1LO6Cs9HKCdyrayTJQ4q5PBkBiZ9jQllkFtTeGwVjHuI/edit?usp=sharing) (make a copy for your program - upload the copy)
-- [Coding Exercise(s)]
+- There are no coding exercises for this lesson. Students will start their unit project.
 
 📝 Upload as Assignment in Google Classroom (Ungraded):
 - [Unit 3 Project Plan](https://docs.google.com/document/d/1FiLQneW1nFMrWv3EsB8M3qu831fJRG6fQwS_gwm8jRI/edit?usp=sharing) (choose the dropdown option: "Make a copy for each student")
