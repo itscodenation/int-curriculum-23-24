@@ -16,12 +16,6 @@
 
 ## Key Points
 
-💻 Code Along/Solo, Part 2 (8)
-👋 Exit Ticket & Closing (5)
-
-
-
-
 - 👋 Welcome & Do Now (4) : 
     -  Greeting students and setting the tone for the lesson.
     -  Instruct students to complete the Do Now as they enter class. <br><br>
@@ -35,11 +29,18 @@
     -  This will be an important foundation for their CYOA project.<br><br>
 
 - 💻 Code Along/Solo, Part 1 (8) :
+    - Complete the Code Along, Part 1 task together.
+    - Live code and explain the process of saving the html elements.
+    - Encourage students to code alongside you for hands-on learning.
+    - Have student complete the solo part on their own.
 
-- 💬 Console (3) :
+- 💬 Console (3) 
 
 - 💻 Code Along/Solo, Part 2 (8) : 
-    -  Explain the purpose, structure, and rules of the coding challenge for next class.<br><br>
+    - Complete the Code Along, Part 2 task together.
+    - Live code and explain the process of saving the html elements.
+    - Encourage students to code alongside you for hands-on learning.
+    - Have student complete the solo part on their own.<br><br>
 
 - 👋 Exit Ticket & Closing (5) : 
     -  Assess understanding and close the lesson.
