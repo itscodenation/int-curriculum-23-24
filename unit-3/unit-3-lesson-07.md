@@ -6,6 +6,7 @@
 
 📖 Upload as Material in Google Classroom:
 - [Slides](https://docs.google.com/presentation/d/1x7xg3wMVwYMuh5KiIe3ZnegCWQlUhO-Sa6EfXB2v6-Y/edit?usp=sharing) (make a copy for your program - upload the copy)
+- [Kahoot Link](https://play.kahoot.it/v2/?quizId=227a44d9-b771-4b0c-a78f-221f17a457a7)
 - [Coding Exercise(s)](https://github.com/itscodenation/int-u3l7-23-24-student-exercises)
 
 📝 Upload as Assignment in Google Classroom (5 points):
