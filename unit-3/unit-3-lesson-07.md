@@ -16,20 +16,32 @@
 
 ## Key Points
 
-- 👋 Welcome (5) : 
+💻 Code Along/Solo, Part 2 (8)
+👋 Exit Ticket & Closing (5)
+
+
+
+
+- 👋 Welcome & Do Now (4) : 
     -  Greeting students and setting the tone for the lesson.
-    -  There is no Do Now for this lesson - most of the time will be spent reviewing and with practice. <br><br>
+    -  Instruct students to complete the Do Now as they enter class. <br><br>
 
-- 🔄 JS Review (10) :
+- 👾 Kahoot! (8) :
+    - Complete the Kahoot review.<br><br>
+    
+- 🔄 Review (5) :
     -  Review the basic structure of JS and its importance.
-    -  Discuss JS: Explanation, importance, and structure of JS.
-    -  Review JS Elements: variables, data types, events, and their purposes.
-    -  Code Along: Guide students through a live coding example.<br><br>
+    -  Discuss variables and storing html elements.
+    -  This will be an important foundation for their CYOA project.<br><br>
 
-- 👾 Coding Challenge Intro (5) : 
+- 💻 Code Along/Solo, Part 1 (8) :
+
+- 💬 Console (3) :
+
+- 💻 Code Along/Solo, Part 2 (8) : 
     -  Explain the purpose, structure, and rules of the coding challenge for next class.<br><br>
 
-- 👋 Closing (5) : 
+- 👋 Exit Ticket & Closing (5) : 
     -  Assess understanding and close the lesson.
     -  Exit Ticket: Direct students to the Exit Ticket in Google Classroom.
     -  Make sure students have submitted their exit ticket.<br><br>
