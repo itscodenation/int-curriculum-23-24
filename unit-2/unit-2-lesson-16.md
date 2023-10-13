@@ -10,7 +10,8 @@
 
 📝 Upload as Assignment in Google Classroom (Ungraded):
 - [Unit 2 Survey](https://forms.gle/5srcNgLcHo64toVr5) (DO NOT MAKE A COPY - upload as link)
-
+ - This is an important data point - please make sure this is completed.
+ - If a student is absent on this, follow up with them for completion.
 <br>
 
 ## Key Points
