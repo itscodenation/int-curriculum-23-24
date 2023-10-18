@@ -54,5 +54,5 @@ Students will use HTML, CSS, and JavaScript  to create a Choose Your Own Adventu
 
  
 ### Google Classroom Project Rubric
-- [Project Rubric for Google Classroom Import]() 
+- [Project Rubric for Google Classroom Import](https://docs.google.com/spreadsheets/d/1VXjDLfA7z133waTBZp0oToF7BpofAuk-OpprFkz80P4/edit?usp=sharing) 
 
