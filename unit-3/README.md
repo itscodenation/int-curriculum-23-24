@@ -41,10 +41,7 @@ JS: JavaScript, programming language, variable, declare, assign, value, let, dat
 Students will use HTML, CSS, and JavaScript  to create a Choose Your Own Adventure game. This game can be based on any topic they want, so long as it has at least 3 parts and gives the user at least once change to change the outcome of the game (with an event handler).
 
 ### Project Starter Code
-- Starter Code Templates:
-    - [Option 1]()
-    - [Option 2]()
-    - [Option 3]() 
+- [Starter Code Repo](https://github.com/itscodenation/int-u3-project-23-24-starter-code)
 
 ### Project Examples
 - [Example 1](https://jamisontitan.github.io/EnchantedTransistor/)
