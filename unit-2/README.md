@@ -66,5 +66,5 @@ Students will use HTML and CSS to build a website for an issue or topic they are
     - [Option 3](https://github.com/itscodenation/int-u2-project-23-24-starter-code-3) - [Example 3](https://maxwilliams361.github.io/Sample-Project-Starter-Code-3/)
  
 ### Google Classroom Project Rubric
-- [Project Rubric for Google Classroom Import](https://docs.google.com/spreadsheets/d/1Pcm0Z6Y1go8Vho9UXGcDR6AuWs4c2Rg5BowuXycAYyo/edit#gid=241290541) 
+- [Project Rubric for Google Classroom Import](https://docs.google.com/document/d/1-TPAVVylABgVcBTaSWEUrLW2-WYQ2S3fkIG7huS4Vsw/edit?usp=sharing) 
 
