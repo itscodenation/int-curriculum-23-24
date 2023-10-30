@@ -28,7 +28,11 @@
     - Reflect on the day's work, addressing what was completed, challenges, and next steps.
     - Recognize any outstanding efforts with shoutouts. <br><br>
 
-- 👋 Exit Ticket & Closing (1)
+- 🗣️ Starter Code & Comments (5)
+
+- 💻 Project Work Time (15-20)
+
+- 👋 Exit Ticket & Closing (2)
     - Direct students to the Exit Ticket in Google Classroom and ensure they submit their project plan.
 
 ## Additional Notes
