@@ -20,6 +20,8 @@ This lesson marks day 3 of a 3-day work time series focused on continuing studen
     - Welcome students to the lesson and recap what they worked on in their last class.
     - Outline the goals for today's session, emphasizing continuing their Unit 3 project. <br><br>
 
+- 👀 Framing for the Day (5)
+
 - 💻 Project Work Time (30) :
     - Provide students with a brief overview of what they are expected to achieve during this session.
     - Guide students to open up their project from last class along with their project plan.
