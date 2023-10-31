@@ -29,6 +29,10 @@ This lesson focuses on reviewing and debugging HTML and CSS concepts. Students a
     -  Use Repl.it Features: Teach how to auto-indent and use Repl.it for clean code.
     -  Utilize Documentation: Show how to use documentation for HTML errors.<br><br>
 
+- 👾 Coding Challenge Intro (5) : 
+    -  Explain the purpose, structure, and rules of the coding challenge for next class.
+    -  This is introduced before the review to give a clear framing to students on what to expect.<br><br>
+
 - 🔄 HTML Review (10) :
     -  Review the basic structure of HTML and its importance.
     -  Discuss HTML: Explanation, importance, and structure of HTML.
@@ -40,9 +44,6 @@ This lesson focuses on reviewing and debugging HTML and CSS concepts. Students a
     -  Discuss CSS: Explanation, importance, and structure of CSS.
     -  Review CSS Selectors: Tag selectors, class selectors.
     -  Code Along: Guide students through a live coding example.<br><br>
-
-- 👾 Coding Challenge Intro (5) : 
-    -  Explain the purpose, structure, and rules of the coding challenge for next class.<br><br>
 
 - 👋 Closing (5) : 
     -  Assess understanding and close the lesson.
