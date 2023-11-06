@@ -1,11 +1,11 @@
-# Lesson 4.3: String Concatenation
+# Lesson 4.5: Compound Conditional Statements
 
 <br>
 
 ## Lesson Materials
 
 📖 Upload as Material in Google Classroom:
-- [Slides](https://docs.google.com/presentation/d/1D5XBOAXhqbcaE_9Y4tTI5K-em136hFI2e_7VhMZUiiY/edit?usp=sharing) (make a copy for your program - upload the copy)
+- [Slides](https://docs.google.com/presentation/d/1-teVsLN9Kk0pnOTteQDj-pb1AgexrfhkRim3eNotGms/edit?usp=sharing) (make a copy for your program - upload the copy)
 - [Coding Exercise(s)]()
 
 📝 Upload as Assignment in Google Classroom (5 points):
