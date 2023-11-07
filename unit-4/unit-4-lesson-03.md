@@ -9,33 +9,35 @@
 - [Coding Exercise(s)]()
 
 📝 Upload as Assignment in Google Classroom (5 points):
-- [Exit Ticket]() (DO NOT MAKE A COPY - upload as link)
+- [Exit Ticket](https://forms.gle/rYbLGg2zv1sZTYYL7) (DO NOT MAKE A COPY - upload as link)
 
 <br>
 
 
 ## Key Points
 
-👋 Welcome & Icebreaker (5) :
-- <br><br>
+👋 Welcome & Do Now (10) :
+- Engage students and set a positive tone for the lesson.
+- Direct students to complete the Do Now.
+- Challenge students to try and change the password in the coding exercise.<br><br><br><br>
 
-📥 Storing User Input (5) :
-- <br><br>
+🔀 Conditional Statements (10) :
+- Discuss how conditional statements allow different actions based on different conditions.
+- Go through the syntax of conditional statements.
+- Emphasize the 'if' keyword, condition, 'else' keyword, and the statements that get executed based on the condition.
+- Use a practical example with an image display based on a number condition. 
+- Have students identify the condition, and predict which block of code will execute.<br><br>
 
-💻 Code Along, Part 1 (5) : 
-- <br><br>
+🔥 Rapid Question Round (3) : 
+- Present a series of conditional statements and have students quickly vote if the condition evaluates to true or false
+- Discuss why each condition is true or false, ensuring students understand the reasoning.<br><br>
 
-💬 Displaying User Input (5) : 
-- <br><br>
+💻 Code Solo (15) : 
+- Students work on utilizing conditional statements.<br><br>
 
-💻 Code Along, Part 2 (5) :
-- <br><br>
-
-💻 Code Solo (10) :
-- <br><br>
-
-👋 Exit Ticket & Closing (5)
-- <br><br>
+👋 Exit Ticket & Shout Outs (5) :
+- Direct students to complete the Exit Ticket in Google Classroom for Lesson 4.3 on Basic Conditional Statements.
+- Remind students to double-check that they have submitted their exit tickets.<br><br>
 
 
 ## Common Misconceptions
