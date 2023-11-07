@@ -16,30 +16,36 @@
 
 ## Key Points
 
-👋 Welcome & Icebreaker (5) :
-- <br><br>
 
-📥 Storing User Input (5) :
-- <br><br>
+👋 Welcome & Do Now (5) :
+- Engage students and set a positive tone for the lesson.
+- Direct students to complete the Do Now.
+- Invite a student to share their 'Do Now' activity solution and discuss it with the class.<br><br>
 
-💻 Code Along, Part 1 (5) : 
-- <br><br>
+🔤 String Concatenation (10) :
+- Define string concatenation as the process of joining multiple strings together.
+- Use examples to show how the + operator is used to concatenate strings.
+- Discuss the difference between numbers and strings within variables.
+- Highlight how to concatenate strings with and without variables.
+- Emphasize the absence of quotation marks around variable names during concatenation.<br><br>
 
-💬 Displaying User Input (5) : 
-- <br><br>
+💻 Code Along (7) : 
+- Lead a live coding session where students follow along.
+- Create a simple application that constructs sentences using string concatenation.<br><br>
 
-💻 Code Along, Part 2 (5) :
-- <br><br>
+💻 Code Solo, Part 1 & Review (6) : 
+- Students will independently write code that concatenates given strings to form sentences. 
+- They will then display the result on their screen.<br><br>
 
-💻 Code Solo (10) :
-- <br><br>
+💻 Code Solo, Part 2 (10) :
+- Allow students to practice more complex string concatenation examples, providing support as needed.<br><br>
 
 👋 Exit Ticket & Closing (5)
-- <br><br>
+- Direct students to complete the Exit Ticket in Google Classroom to assess their understanding of string concatenation
+- Ensure students submit their exit tickets and provide a brief closing to summarize the day's learning and prep them for the next class.<br><br>
 
 
 ## Common Misconceptions
-
 
 
 ## Additional Materials
