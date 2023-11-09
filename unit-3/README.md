@@ -5,6 +5,7 @@
 ## Deliverables
 
 - Exit Tickets
+- Unit 3 Coding Challenge
 - Unit 3 Project
 
 ## Student/Printing Resources
