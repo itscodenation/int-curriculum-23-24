@@ -6,6 +6,7 @@
 
 📖 Upload as Material in Google Classroom:
 - [Slides](https://docs.google.com/presentation/d/1NBpKKD_wp5pbBvXAOLi9ErAKxkU35orn_Uskf-LOKZs/edit?usp=sharing) (make a copy for your program - upload the copy)
+- [Do Now](https://forms.gle/6WmFTTF1yQmDaU9F9) (make a copy for your program - upload the copy)
 - [Coding Exercise(s)]()
 
 📝 Upload as Assignment in Google Classroom (5 points):
