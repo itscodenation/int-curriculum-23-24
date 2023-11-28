@@ -9,7 +9,7 @@
 - Unit 3 Project
 
 ## Student/Printing Resources
-- [Unit 3 Guided Notes](https://docs.google.com/document/d/1sA8a5a_df5gMUNmaoEEcppDcsCWnOdrlSRBC24JFHI0/edit?usp=sharing)
+- [Unit 3 Guided Notes](https://docs.google.com/document/d/1znv7zAdby_QHZGGOcysJgay7Fi42tD58Is-nFemcKVY/edit?usp=sharing)
 - [Project Plan](https://docs.google.com/document/d/1FiLQneW1nFMrWv3EsB8M3qu831fJRG6fQwS_gwm8jRI/edit?usp=sharing)
 - [Project Rubric](https://docs.google.com/document/d/159qAUe1yrnHI6NE014rBB0LBqe2wxraJPl_xVn4Xhwg/edit?usp=sharing)
 
