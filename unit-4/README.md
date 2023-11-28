@@ -26,7 +26,7 @@
 5. Identify, evaluate, and construct compound conditional statements 
 6. Review how to use .value to retrieve a value from an input field and display it on a webpage
 7. Demonstrate their coding skills by completing a coding challenge.
-8. Brainstorm ideas for their unit 5 project
+8. Brainstorm ideas for their unit 4 project
 9. Add HTML, CSS, and Javascript to their unit 4 project starter code.
 10. Use their project plans and new coding skills to add conditionals to their unit 4 project
 11. Use their project plans and coding skills to finish up their Unit 4 projects
