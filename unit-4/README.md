@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://live.staticflickr.com/65535/53187841443_b2ba854247_k.jpg" alt="int-unit-4-banner" width="100%">
+<img src="https://live.staticflickr.com/65535/53362310874_15a3c47ac4_k.jpg" alt="int-unit-4-banner" width="100%">
 </div>
 
 ## Deliverables
