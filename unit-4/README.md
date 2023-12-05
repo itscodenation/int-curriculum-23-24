@@ -9,7 +9,7 @@
 - Unit 4 Project
 
 ## Student/Printing Resources
-- [Unit 4 Guided Notes](https://docs.google.com/document/d/1aUchDAep3NQdrfoC-idmIT9oqWgTmK_lkEYgydwMFW8/edit?usp=sharing)
+- [Unit 4 Guided Notes](https://docs.google.com/document/d/14HTNMmA70ij-0zlyruTNNRZNjf1Ujd163kLNIfzoWmo/edit?usp=sharing)
 - [Project Plan](https://docs.google.com/document/d/1FAzo2G9BIOON8ixPOv2jNTg21XXUqrQUWa7DfFG8lA8/edit?usp=sharing)
 - [Project Rubric](https://docs.google.com/document/d/1wPQFM4CwAA281Se-CXXf0pEXXtmlhZvsvh5AgQNN8Z0/edit?usp=sharing)
 
