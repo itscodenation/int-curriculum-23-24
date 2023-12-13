@@ -6,7 +6,7 @@
 
 📖 Upload as Material in Google Classroom:
 - [Slides](https://docs.google.com/presentation/d/1-teVsLN9Kk0pnOTteQDj-pb1AgexrfhkRim3eNotGms/edit?usp=sharing) (make a copy for your program - upload the copy)
-- [Coding Exercise(s)]()
+- [Coding Exercise(s)](https://github.com/itscodenation/int-u4l5-23-24-student-exercises)
 
 📝 Upload as Assignment in Google Classroom (5 points):
 - [Exit Ticket](https://forms.gle/n9f96DfJ9LHkg6SN9) (DO NOT MAKE A COPY - upload as link)
