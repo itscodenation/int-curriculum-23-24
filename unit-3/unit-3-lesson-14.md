@@ -8,7 +8,12 @@
 - [Slides](https://docs.google.com/presentation/d/1ubG7D7720ssWR-AgT6Xy-jAje0Nv0qhXv1XnRrVp6S0/edit?usp=sharing) (make a copy for your program - upload the copy)
 - There are no coding exercises for this lesson. Students will present their projects.
 
+📝 Upload as Assignment in Google Classroom (Ungraded):
+- [Unit 3 Survey](https://forms.gle/AM2xwTitGwakc4Km9) (DO NOT MAKE A COPY - upload as link)
+ - This is an important data point - please make sure this is completed.
+ - If a student is absent on this, follow up with them for completion.
 <br>
+
 
 ## Key Points
 Presentation Day is centered around students showcasing their Unit 3 projects. The lesson is structured with an icebreaker, followed by guided group presentations, where each student has 2 minutes to present their website and answer questions. The session concludes with a survey to collect feedback and closing shout-outs to recognize and celebrate the efforts and achievements of peers and instructors.
