@@ -13,7 +13,6 @@
 | [**3: JS Fundamentals I**](/unit-3) | 14 | ✔️ | Coders learn about variables, DOM manipulation and event handlers to create a Choose Your Own Adventure game. |
 | [**4: JS Fundamentals II**](/unit-4) | 12 | ✔️ | Coders will learn how to use .value, string concatenation, and how to write conditionals to create a quiz web app. |
 | [**5: JS Fundamentals III**] | 8 | ✔️ | Coders will learn arrays, array methods, loops, and properties to build a movie, tv, or music suggestion app. |
-| [**6: Functions (Optional)**] | 10 | ✔️ | Students will learn about functions to create a playlist project. |
 
 ---
 
