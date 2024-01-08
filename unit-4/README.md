@@ -54,5 +54,5 @@ Students will use HTML, CSS, and JavaScript  to create a Buzzfeed Quiz project. 
 - [Example 3](https://emilygarvey.github.io/Unit-8-which-cheese-are-you/)
  
 ### Google Classroom Project Rubric
-- 
+- - [Project Rubric for Google Classroom Import](https://docs.google.com/spreadsheets/d/13Jd_pl3LVD70wWPOfTi4MqCeXBrpDkj6QAm8mPQUeJs/edit?usp=sharing) 
 
