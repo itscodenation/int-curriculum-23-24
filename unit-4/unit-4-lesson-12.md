@@ -5,7 +5,7 @@
 ## Lesson Materials
 
 ➕ Extra Resource for Presentations:
-- [Presentation Project Link Template](https://docs.google.com/document/d/1j6Fe0rAaTeaxLLfhkqJLmDO82kweSKtV0zcQlVdreyo/edit?usp=sharing)(make a copy for your program - link on the Do Now slide)
+- [Presentation Project Link Template](https://docs.google.com/document/d/1j6Fe0rAaTeaxLLfhkqJLmDO82kweSKtV0zcQlVdreyo/edit?usp=sharing) (make a copy for your program - link on the Do Now slide)
 
 📖 Upload as Material in Google Classroom:
 - [Slides](https://docs.google.com/presentation/d/1ubrPxMTzd2eoizgXT0wKLyphqze2gIZh1HcqvLlo2Ks/edit?usp=sharing) (make a copy for your program - upload the copy)
