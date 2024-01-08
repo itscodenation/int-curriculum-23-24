@@ -49,7 +49,9 @@ Students will use HTML, CSS, and JavaScript  to create a Buzzfeed Quiz project. 
 - [Starter Code Repo](https://github.com/itscodenation/int-u4-project-23-24-starter-code)
 
 ### Project Examples
-- [Example 1](https://emilygarvey.github.io/Unit-8-which-cheese-are-you/)
+- [Example 1](https://cn-mika.github.io/buzzfeed-quiz-spongebob-example/)
+- [Example 2](https://cn-mika.github.io/buzzfeed-quiz-tech-company-example/)
+- [Example 3](https://emilygarvey.github.io/Unit-8-which-cheese-are-you/)
  
 ### Google Classroom Project Rubric
 - 
