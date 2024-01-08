@@ -44,8 +44,7 @@ JS: .value, placeholder, strings, data types, string concatenation, conditional 
 ---
 
 ## Project Overview
-Students will use HTML, CSS, and JavaScript  to create a Choose Your Own Adventure game. This game can be based on any topic they want, so long as it has at least 3 parts and gives the user at least once change to change the outcome of the game (with an event handler).
-
+Students will use HTML, CSS, and JavaScript  to create a Buzzfeed Quiz project. This quiz can be based on any topic they want.
 ### Project Starter Code
 - 
 
