@@ -1,21 +1,20 @@
-# Lesson 5.9: Project Work Time, Day 1
+# Lesson 5.10: Project Work Time, Day 2
 
 <br>
 
 ## Lesson Materials
 
 📖 Upload as Material in Google Classroom:
-- [Slides](https://docs.google.com/presentation/d/17JYzQGPkBF30YZZ7TCiSF-fv2qQTkzFNrvbwfyQQwb0/edit?usp=sharing) (make a copy for your program - upload the copy)
+- [Slides](https://docs.google.com/presentation/d/1aOW3bYCIwDD_0TvzklKpF5B_3cZl781Y448SOrnkK2U/edit?usp=sharing) (make a copy for your program - upload the copy)
 - There are no coding exercises for this lesson. Students will work on their projects.
 
 📝 Upload as Assignment in Google Classroom (Ungraded):
 - [Project Submission Form](https://forms.gle/jpemUa2fTs6DFdCX8) (DO NOT MAKE A COPY - upload as link)
 
-
 <br>
 
 ## Key Points
-This lesson marks day 1 of a 2-day work time series focused on continuing students' progress on their Unit 5 project. Emphasizing hands-on practice, students will open their existing projects, complete any unfinished tasks, and learn to add specific tags to their projects.
+This lesson marks day 2 of a 2-day work time series focused on continuing students' progress on their Unit 5 project. Emphasizing hands-on practice, students will open their existing projects, complete any unfinished tasks, and learn to add specific tags to their websites.
 
 - 👋 Welcome (5) : 
     - Welcome students to the lesson and recap what they worked on in their last class.
@@ -23,7 +22,7 @@ This lesson marks day 1 of a 2-day work time series focused on continuing studen
 
 - 👀 Framing for the Day (5)
 
-- 💻 Project Work Time (25) :
+- 💻 Project Work Time (30) :
     - Provide students with a brief overview of what they are expected to achieve during this session.
     - Guide students to open up their project from last class along with their project plan.
     - Encourage students to finish anything they haven't completed from previous classes.
