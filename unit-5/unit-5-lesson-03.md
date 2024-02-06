@@ -5,7 +5,7 @@
 ## Lesson Materials
 
 📖 Upload as Material in Google Classroom:
-- [Slides]() (make a copy for your program - upload the copy)
+- [Slides](https://docs.google.com/presentation/d/1qjV23hnjx1Mu3-UEHdZC18PsbLafPh28tnFHe_6EXnA/edit?usp=sharing) (make a copy for your program - upload the copy)
 - [Coding Exercise(s)]()
 
 📝 Upload as Assignment in Google Classroom (5 points):
@@ -22,13 +22,15 @@
 - Guide students to modify arrays and share their findings.<br><br>
 
 🗂️ Arr. Properties & Methods (10) :
-- <br><br>
+- Dive into common methods used to manipulate array elements.
+- Key Methods: push(), pop(), shift(), unshift().<br><br>
 
 💻 Code Along (5) : 
-- <br><br>
+- Code-along session where each method is explained and demonstrated.
+- Pair programming exercises for hands-on practice with each method.<br><br>
 
 💻 Code Solo (15) : 
-- <br><br>
+- Students work on tasks related to array methods & properties.<br><br>
 
 👋 Exit Ticket & Closing (5)
 - Direct students to the Exit Ticket in Google Classroom, ensuring all questions are answered.

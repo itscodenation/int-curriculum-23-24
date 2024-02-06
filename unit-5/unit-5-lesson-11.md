@@ -1,33 +1,33 @@
-# Lesson 4.12: Presentations & Survey
+# Lesson 5.11: Presentations & Survey
 
 <br>
 
 ## Lesson Materials
 
 ➕ Extra Resource for Presentations:
-- [Presentation Project Link Template](https://docs.google.com/document/d/1j6Fe0rAaTeaxLLfhkqJLmDO82kweSKtV0zcQlVdreyo/edit?usp=sharing) (make a copy for your program - link on the Do Now slide)
+- [Presentation Project Link Template]() (make a copy for your program - link on the Do Now slide)
 
 📖 Upload as Material in Google Classroom:
-- [Slides](https://docs.google.com/presentation/d/1ubrPxMTzd2eoizgXT0wKLyphqze2gIZh1HcqvLlo2Ks/edit?usp=sharing) (make a copy for your program - upload the copy)
+- [Slides](https://docs.google.com/presentation/d/1VaD_bEiwGkkW_2k1eZja3d3zth5p11aeKN90p-RxvPQ/edit?usp=sharing) (make a copy for your program - upload the copy)
 - There are no coding exercises for this lesson. Students will present their projects.
 
 📝 Upload as Assignment in Google Classroom (Ungraded):
 - [Project Submission Form](https://forms.gle/jpemUa2fTs6DFdCX8) (DO NOT MAKE A COPY - upload as link)
-- [Unit 4 Survey](https://forms.gle/8sZ8Cz6TWYYXSoLj7) (DO NOT MAKE A COPY - upload as link)
+- [Unit 5 Survey]() (DO NOT MAKE A COPY - upload as link)
  - This is an important data point - please make sure this is completed.
  - If a student is absent on this, follow up with them for completion.
 <br>
 
 
 ## Key Points
-Presentation Day is centered around students showcasing their Unit 4 projects. The lesson is structured with an icebreaker, followed by guided group presentations, where each student has 2 minutes to present their website and answer questions. The session concludes with a survey to collect feedback and closing shout-outs to recognize and celebrate the efforts and achievements of peers and instructors.
+Presentation Day is centered around students showcasing their Unit 5 projects. The lesson is structured with an icebreaker, followed by guided group presentations, where each student has 2 minutes to present their website and answer questions. The session concludes with a survey to collect feedback and closing shout-outs to recognize and celebrate the efforts and achievements of peers and instructors.
 
 
 - ⏰ Do Now (5) : 
     -  Briefly explain what the students will be doing today, and set the stage for the presentations. <br><br>
 
 - 🗣️ Presentations Intro/Demo (10) : 
-    - Discuss the unit's focus on JS to build a Buzzfeed-Like Quiz project.
+    - Discuss the unit's focus on JS to build a suggestion app.
     - Highlight the skills learned during the unit.<br><br>
 
 - ✨ Presentations (20) :
@@ -38,7 +38,7 @@ Presentation Day is centered around students showcasing their Unit 4 projects. T
     - Facilitate the presentations, ensuring that each group member has a chance to present, and guide the audience in asking questions.<br><br>
 
 - ✍️ Survey (5) : 
-    -  Distribute survey to collect feedback on Unit 4.<br><br>
+    -  Distribute survey to collect feedback on Unit 5.<br><br>
 
 - 🎉 Closing & Shout Outs (5) : 
     - Encourage students to shout out their peers, instructors, or highlight any particular projects or aspects of the unit they enjoyed.

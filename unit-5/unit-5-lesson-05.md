@@ -17,16 +17,22 @@
 ## Key Points
 
 👋 Welcome & Do Now (5) :
--<br><br>
+- This section starts with a greeting and a brief activity to engage students and prepare them for the lesson's objectives, focusing on reviewing loops.<br><br>
 
 ➰ forEach Loops (10) :
-- <br><br>
+- This segment delves into the forEach loop, illustrating how it operates on each element of an array. 
+- It includes explanations, syntax, and examples to demonstrate how to implement forEach loops in practical scenarios.<br><br>
 
 ✚ Create/Update/Add HTML (10) : 
-- <br><br>
+- Instruction on using:
+    - createElement to generate new HTML elements
+    - innerHTML for updating the content of these elements, and 
+    - appendChild for adding them to the DOM. 
+- Each method is explained with its purpose, usage, and impact on web page dynamics.<br><br>
 
 🔄 Review (15) : 
-- <br><br>
+- A comprehensive review session that reinforces key concepts covered in the lesson.
+- Ensure students have a solid understanding of loops and DOM manipulation.<br><br>
 
 👋 Exit Ticket & Closing (5)
 - Direct students to the Exit Ticket in Google Classroom, ensuring all questions are answered.
