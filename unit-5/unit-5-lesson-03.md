@@ -31,7 +31,12 @@
 
 💻 Code Along (15) : 
 - Lead a coding session where students apply forEach loops in real scenarios.
-- Encourage students to try out examples and variations.<br><br>
+- Encourage students to try out examples and variations.
+- For the third task (finding the sum), talk through the logic with the students if they struggle.
+  - "We need to update the sum each time."
+  - "Sum is already declared, so we can take that variable and equal it to a new value."
+  - "The new value should be whatever the sum is plus the new number we want to add."
+  - "What would that code look like?"<br><br>
 
 👋 Exit Ticket & Closing (5)
 - Direct students to the Exit Ticket in Google Classroom, ensuring all questions are answered.
